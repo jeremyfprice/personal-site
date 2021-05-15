@@ -22,28 +22,56 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
+  - title: Assistant Professor
+    company: IU School of Education-Indianapolis at IUPUI
+    company_url: 'https://www.iupui.edu'
+    company_logo: iu
+    location: Indianapolis, IN
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+
         * Analysing
         * Modelling
         * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+
+  - title: Assistant Professor
+    company: Fairmont State University
     company_url: ''
-    company_logo: org-x
-    location: California
+    company_logo: fsu
+    location: Fairmont, WV
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Postdoctoral Scholar
+    company: University of California-Berkeley, Lawrence Hall of Science
+    company_url: ''
+    company_logo: cal
+    location: Berkeley, CA
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Learning Media Specialist
+    company: CAST
+    company_url: ''
+    company_logo: cast
+    location: Wakefield, MA
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Educational Technology Coordinator
+    company: Natural History Museum of Los Angeles County
+    company_url: ''
+    company_logo: nhm
+    location: Los Angeles, CA
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
 
 design:
   columns: '2'

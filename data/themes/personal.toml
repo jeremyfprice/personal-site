@@ -1,0 +1,22 @@
+# Theme metadata
+name = "personal"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#191919"
+
+# Menu
+menu_primary = "#990000"
+menu_text = "#EDEBEB"
+menu_text_active = "#fffff8"
+menu_title = "#fffff8"
+
+# Home sections
+home_section_odd = "#ffffff"
+home_section_even = "#EDEBEB"
+
+[dark]
+  link = "#990000"
+  link_hover = "#990000"
