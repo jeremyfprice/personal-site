@@ -5,6 +5,8 @@ active: false
 
 # ... Put Your Section Options Here (section position etc.) ...
 
+title: Awards
+
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
 interval: false
@@ -13,7 +15,7 @@ interval: false
 # Specify a height to ensure a consistent height for each slide.
 height: 300px
 
-
+weight: 6
 item:
   - title: Hello
     content: 'I am center aligned 😄'

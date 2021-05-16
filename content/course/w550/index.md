@@ -2,6 +2,7 @@
 title: "Current Technology Trends"
 date: 2021-05-01
 draft: false
+summary: "The summary image should be a custom one"
 summaryImage: "w550.png"
 tags: ["graduate", "technology"]
 resources:
