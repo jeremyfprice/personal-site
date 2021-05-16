@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Thinking About Antisemitism in School
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Indiana International School
+event_url: https://www.bsu.edu/academics/collegesanddepartments/hoosier-stem-academy/conference
 
-location: Wowchemy HQ
+location: Online
 address:
   street: 450 Serra Mall
   city: Stanford

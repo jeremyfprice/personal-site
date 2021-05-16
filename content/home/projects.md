@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: 'Blah di blah'
+title: Ongoing Research Projects
+subtitle: Lines of scholarship to transform learning environments
 
 content:
   # Page type to display. E.g. project.

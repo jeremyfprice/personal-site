@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Technology as a Bridge to Co-Create Environments for Equity and Inclusion in Education"
-authors: ['admin', 'santamaria', 'magee']
+authors: ['admin', 'Cristina Santamaría Graff', 'Paula Magee', 'Ted Hall']
 date: 2020-10-27
 doi: ""
 
@@ -19,29 +19,21 @@ publication_types: ["1"]
 publication: "Society for Information Technology in Teacher Education Interactive Conference, Online"
 publication_short: ""
 
-abstract: ""
+abstract: "Blah blah blah"
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: []
+tags: ["Community Engaged Scholarship", "Equitable and Inclusive Educational Technology"]
+categories: ["Scholarship"]
 featured: true
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_pdf: publication/framework-for-sustainable-culturally-relevant-and-inclusive-teaching/site-fall2020-framework.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: publication/framework-for-sustainable-culturally-relevant-and-inclusive-teaching/site-fall2020-framework.pdf
 url_source:
 url_video:
 
