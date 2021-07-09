@@ -16,11 +16,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Public scholar-advocate invested in working with marginalized and minoritized youth and communities to build an inclusive and just democratic project by transforming learning and teaching environments.
 
+avatar_image: avatar-new.png
+
 gender:
-- icon: mars
-  icon_pack: fas
-  link: https://pronoun.is/he
-  description: he/him/his
+- url: "https://pronoun.is/he"
+  description: "he/him/his"
+
 # Interests to show in About widget
 #interests:
 #- Critical Educational Technology
@@ -65,9 +66,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jeremyfprice/
-- icon: mars
-  icon_pack: fas
-  link: https://pronoun.is/he
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,

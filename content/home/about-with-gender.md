@@ -1,16 +1,16 @@
 ---
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
+widget: about-with-gender
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 21
 
 #title: Biography
 

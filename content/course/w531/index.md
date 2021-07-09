@@ -9,7 +9,7 @@ resources:
 - src: w531.png
 ---
 
- EDUC-W531, Technology for Teaching and Learning, is a survey of educational technology in learning environments in context. Students critically examine topics such as 21st century learning, new literacies, digital divides, digital citizens, technology in classrooms, web-based tools, mobile technologies, game-based learning, and technology innovations. Students evaluate educational technology tools and engage in social networking and collaborative learning.
+EDUC-W531, Technology for Teaching and Learning, is a survey of educational technology in learning environments in context. Students critically examine topics such as 21st century learning, new literacies, digital divides, digital citizens, technology in classrooms, web-based tools, mobile technologies, game-based learning, and technology innovations. Students evaluate educational technology tools and engage in social networking and collaborative learning.
 
 This course is organized around essential questions to guide our learning, discovery, and exploration. The course as a whole is guided by the overarching essential question:
 
