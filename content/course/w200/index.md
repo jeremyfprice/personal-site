@@ -1,6 +1,6 @@
 ---
 title: "Computer Use in Education"
-date: 2021-06-05
+date: 2022-03-19
 draft: false
 hideLastModified: false
 summary: "The course that all undergraduate teacher education students take prior to being admitted into the program."
@@ -16,7 +16,7 @@ The course explores the following essential question:
 
 `What does it look like to engage in intentional, inclusive, and just teaching with technology?`
 
-<div><img style="float: right; clear: left; padding-left: 20px;" src="throughlinesvalues.png" alt="Throughlines and Values Graphic" width="96" height="96" /></div>
+<div><img style="float: right; clear: left; padding-left: 20px;" src="througlinesvalues.png" alt="Throughlines and Values logo" width="96" height="96" /></div>
 
 While exploring the essential question, the course is guided by the following throughlines and values to help students understand how to provide <em><strong>intentional</strong></em>, <em><strong>inclusive</strong></em>, and <em><strong>just</strong></em> learning experiences with technology.
 
@@ -68,6 +68,7 @@ While exploring the essential question, the course is guided by the following th
         </ul>
     </li>
 </ul>
+
 
 The following enduring understandings guides the course, and provides a unit-based structure:
 
