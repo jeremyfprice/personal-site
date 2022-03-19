@@ -22,11 +22,15 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+ links:
+ - name: Follow on Facebook
+   url: https://www.facebook.com/dehiupui
+   icon_pack: fab
+   icon: facebook
+ - name: Follow on Twitter
+   url: https://twitter.com/dehiupui
+   icon_pack: fab
+   icon: twitter
 
 url_code: ""
 url_pdf: ""
