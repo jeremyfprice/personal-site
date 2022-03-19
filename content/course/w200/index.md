@@ -32,6 +32,7 @@ In addition, the course is informed by the following throughlines:
 
 ## Plan an Intentional Curriculum
 
+<img src="intentional.png" style="float:left;" alt="intentional curriculum logo" />
 
 ### Offer Windows
 Curriculum lends opportunities for all students to see and experience new ideas, perspectives, identities, and ways of being in the world.
