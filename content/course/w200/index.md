@@ -16,7 +16,7 @@ The course explores the following essential question:
 
 `What does it look like to engage in intentional, inclusive, and just teaching with technology?`
 
-<div><img style="float: right; clear: left; padding-left: 20px;" src="througlinesvalues.png" alt="Throughlines and Values logo" width="96" height="96" /></div>
+<img style="float: right; clear: left; padding-left: 20px;" src="througlinesvalues.png" alt="Throughlines and Values logo" width="96" height="96" />
 
 While exploring the essential question, the course is guided by the following throughlines and values to help students understand how to provide <em><strong>intentional</strong></em>, <em><strong>inclusive</strong></em>, and <em><strong>just</strong></em> learning experiences with technology.
 
@@ -69,6 +69,7 @@ While exploring the essential question, the course is guided by the following th
     </li>
 </ul>
 
+<br />
 
 The following enduring understandings guides the course, and provides a unit-based structure:
 
