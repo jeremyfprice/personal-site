@@ -47,7 +47,7 @@ slides: ""
 
 ## Community-Engaged Responses to Educational Challenges through COVID-19 and Beyond
 
-The Digital Education Hub is a research project grounded in the principles of [community-engaged scholarship](https://csl.iupui.edu/teaching-research/public-scholarship/index.html) that provides sustainable and rigorous support in collaboration with communities, families, and educators cultivating equity and inclusion in lifelong learning with technology especially for learners representing structurally marginalized identities and communities.
+The Digital Education Hub (DEH) is a research project grounded in the principles of [community-engaged scholarship](https://csl.iupui.edu/teaching-research/public-scholarship/index.html) that provides sustainable and rigorous support in collaboration with communities, families, and educators cultivating equity and inclusion in lifelong learning with technology especially for learners representing structurally marginalized identities and communities.
 
 The Digital Education Hub is an online resource that provides educators and families with Learning, Networking, and Resources through tutorials, model lesson plans, and mini-courses to address the challenges of remote and hybrid learning due to COVID-19.
 
