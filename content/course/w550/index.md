@@ -1,7 +1,7 @@
 ---
 title: "Current Technology Trends"
 date: 2021-05-01
-draft: true
+draft: false
 summary: "The summary image should be a custom one"
 summaryImage: "w550.png"
 tags: ["graduate", "technology"]
@@ -19,8 +19,8 @@ The course as a whole is guided by the overarching essential question:
 do we approach these issues in our classrooms, schools, and communities?`
 
 Exploring this question prepares students to engage with the current state of educational technology in
-society and in the classroom more deeply. Students are introduced to four critical issues, and
-explore each issue through a spiral process of building new knowledge and deepening understandings,
+society and in the classroom more deeply. Students are introduced to four critical issues and
+explore each issue through a spiral process of building new knowledge and deepening understandings
 moving from understanding to analyzing to transforming. Each module is further guided by an
 essential question and a learning goal with a set of readings and a culminating performance that
 challenges you to engage in transforming the issue through educational technology.
