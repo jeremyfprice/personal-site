@@ -26,12 +26,12 @@ TRUTH | Technology can be used to embrace, provide access to, and find truth in 
 VOICE | Technology can serve to provide access to and elevate the voices of the silenced and oppressed and marginalize hate.
 JUSTICE | Thoughtful, intentional, and critical evaluation of and planning with technology can help teachers participate in intentional, inclusive, and just teaching.
 
-{{< tweet 1213914984549437440 >}}
+![throughlines logo](througlinesvalues.png)
 
 In addition, the course is informed by the following throughlines:
 
 ## Plan an Intentional Curriculum
-![Throughlines logo](througlinesvalues.jpg)
+
 
 ### Offer Windows
 Curriculum lends opportunities for all students to see and experience new ideas, perspectives, identities, and ways of being in the world.
