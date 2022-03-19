@@ -28,9 +28,7 @@ challenges you to engage in transforming the issue through educational technolog
 
 UNIT | Essential Question | Culminating Performance
 -----|--------------------|-------------------------
-OVERARCHING | What are the critical issues that intersect with technology and
-education, and how do we approach these issues in our classrooms, schools, and
-communities? | Audience-Specific WebQuest
+OVERARCHING | What are the critical issues that intersect with technology and education, and how do we approach these issues in our classrooms, schools, and communities? | Audience-Specific WebQuest
 1 | What are the ways in which the digital divides impact our educational environments? | Assets-Based Infographic
 2 | How do the tensions between truth and disinformation online and in the media impact the social and cultural purposes of education? | Public Service Announcement (PSA)
 3 | Why are white nationalism and online hate a concern for educators? | Newsletter
