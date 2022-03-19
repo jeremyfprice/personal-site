@@ -23,9 +23,9 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
  links:
- - name: Follow on Facebook
+ - name: Follow
    url: 'https://www.facebook.com/dehiupui'
-   icon_pack: fa-brands
+   icon_pack: fab
    icon: facebook
 # - name: Follow on Twitter
 #   url: 'https://twitter.com/dehiupui'
