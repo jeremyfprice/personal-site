@@ -15,13 +15,13 @@ verifiable information about promising educational technologies.
 
 The course as a whole is guided by the overarching essential question:
 
-`What are the critical issues that intersect with technology and education, and how
-do we approach these issues in our classrooms, schools, and communities?`
+*What are the critical issues that intersect with technology and education, and how
+do we approach these issues in our classrooms, schools, and communities?*
 
 Exploring this question prepares students to engage with the current state of educational technology in
 society and in the classroom more deeply. Students are introduced to four critical issues and
 explore each issue through a spiral process of building new knowledge and deepening understandings
-moving from understanding to analyzing to transforming. Each module is further guided by an
+moving from understanding to analyzing to transforming. Each module is guided by an
 essential question and a learning goal with a set of readings and a culminating performance that
 challenges you to engage in transforming the issue through educational technology.
 
