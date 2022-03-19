@@ -7,7 +7,7 @@ weight: 1
 authors: []
 tags: []
 categories: []
-date: 2021-05-15T14:55:03-04:00
+date: 2022-03-19
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.digitaleducationhub.org/"
@@ -16,19 +16,19 @@ external_link: "https://www.digitaleducationhub.org/"
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Digital Education Hub"
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
  links:
  - name: Follow on Facebook
-   url: https://www.facebook.com/dehiupui
+   url: 'https://www.facebook.com/dehiupui'
    icon_pack: fab
    icon: facebook
  - name: Follow on Twitter
-   url: https://twitter.com/dehiupui
+   url: 'https://twitter.com/dehiupui'
    icon_pack: fab
    icon: twitter
 
