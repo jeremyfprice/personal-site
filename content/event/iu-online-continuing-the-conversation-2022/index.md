@@ -17,8 +17,8 @@ abstract: "Online discussion forums have been an integral part of the effort to 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-04-22"
-# date_end: "2022-06-01T15:00:00Z"
+date: "2022-04-22T13:00:00Z"
+date_end: "2022-04-22T14:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
