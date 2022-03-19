@@ -30,54 +30,54 @@ JUSTICE | Thoughtful, intentional, and critical evaluation of and planning with 
 
 In addition, the course is informed by the following throughlines:
 
-    <ul style="list-style: none; margin: 0;">
-        <li>
-            <h2 style="background-color: #eeeeee; border-top: solid 3px #a7a9ab; border-bottom: solid 3px #a7a9ab; padding-left: 20px; padding-right: 20px; margin-top: 20px; margin-bottom: 10px;">Plan an Intentional Curriculum</h2>
-            <img style="float:left;" src="intentional.png" alt="Plan an Intentional Curriculum" width="144" height="144" />
-            <ul style="list-style: none; margin: 0; margin-left: 155px;">
-                <li>
-                    <h3>Offer Windows</h3>
-                    <p>Curriculum lends opportunities for all students to see and experience new ideas, perspectives, identities, and ways of being in the world.</p>
-                </li>
-                <li>
-                    <h3>Provide Mirrors</h3>
-                    <p>Learning experiences should provide opportunities for all students to see themselves in what is being taught and explored in the curriculum.</p>
-                </li>
-            </ul>
-        </li>
-        <li>
-            <h2 style="background-color: #eeeeee; border-top: solid 3px #a7a9ab; border-bottom: solid 3px #a7a9ab; padding-left: 20px; padding-right: 20px; margin-top: 20px; margin-bottom: 10px;">Facilitate Inclusive Cultural Practices</h2>
-            <img style="float:left;" src="inclusive.png" alt="Facilitate Inclusive Cultural Practices" width="144" height="144" />
-            <ul style="list-style: none; margin: 0; margin-left: 155px;">
-                <li>
-                    <h3>Commit to a Culturally Relevant Curriculum</h3>
-                    <p>A culturally relevant curriculum links to Windows and Mirrors and also recognizes the different ways in which students of a range of identities, community memberships, and abilities interact with information.</p>
-                </li>
-                <li>
-                    <h3>Overcome Stereotypes</h3>
-                    <p>Teachers must understand their students for who they are not based on stereotypes or prior experiences with students claiming the same identities or community membership and help their students to do the same.</p>
-                </li>
-                <li>
-                    <h3>Honor Home Languages</h3>
-                    <p>Teachers must recognize home languages are assets and important aspects of diversity in learning. Language not only helps us communicate with each other, but also helps us to interact with the world around us.</p>
-                </li>
-            </ul>
-        </li>
-        <li>
-            <h2 style="background-color: #eeeeee; border-top: solid 3px #a7a9ab; border-bottom: solid 3px #a7a9ab; padding-left: 20px; padding-right: 20px; margin-top: 20px; margin-bottom: 10px;">Engage in Just Technology Use</h2>
-            <img style="float:left;" src="justtechuse.png" alt="Engage in Just Technology Use" width="144" height="144" />
-            <ul style="list-style: none; margin: 0; margin-left: 155px;">
-                <li>
-                    <h3>Facilitate Sharing, Communicating, and Deep Inquiry</h3>
-                    <p>Technology can provide students with the opportunity to share what they understand and investigate topics deeply. Teachers need to structure technology use so these opportunities are available for all students.</p>
-                </li>
-                <li>
-                    <h3>Foster Empowering Knowledge and Contributing to the Classroom and Society</h3>
-                    <p>Teachers must structure technology use so that students are empowered to make use of the knowledge they bring while working to contribute to the classroom and society as a whole.</p>
-                </li>
-            </ul>
-        </li>
-    </ul>
+<ul style="list-style: none; margin: 0;">
+    <li>
+        <h2 style="background-color: #eeeeee; border-top: solid 3px #a7a9ab; border-bottom: solid 3px #a7a9ab; padding-left: 20px; padding-right: 20px; margin-top: 20px; margin-bottom: 10px;">Plan an Intentional Curriculum</h2>
+        <img style="float:left;" src="intentional.png" alt="Plan an Intentional Curriculum" width="144" height="144" />
+        <ul style="list-style: none; margin: 0; margin-left: 155px;">
+            <li>
+                <h3>Offer Windows</h3>
+                <p>Curriculum lends opportunities for all students to see and experience new ideas, perspectives, identities, and ways of being in the world.</p>
+            </li>
+            <li>
+                <h3>Provide Mirrors</h3>
+                <p>Learning experiences should provide opportunities for all students to see themselves in what is being taught and explored in the curriculum.</p>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <h2 style="background-color: #eeeeee; border-top: solid 3px #a7a9ab; border-bottom: solid 3px #a7a9ab; padding-left: 20px; padding-right: 20px; margin-top: 20px; margin-bottom: 10px;">Facilitate Inclusive Cultural Practices</h2>
+        <img style="float:left;" src="inclusive.png" alt="Facilitate Inclusive Cultural Practices" width="144" height="144" />
+        <ul style="list-style: none; margin: 0; margin-left: 155px;">
+            <li>
+                <h3>Commit to a Culturally Relevant Curriculum</h3>
+                <p>A culturally relevant curriculum links to Windows and Mirrors and also recognizes the different ways in which students of a range of identities, community memberships, and abilities interact with information.</p>
+            </li>
+            <li>
+                <h3>Overcome Stereotypes</h3>
+                <p>Teachers must understand their students for who they are not based on stereotypes or prior experiences with students claiming the same identities or community membership and help their students to do the same.</p>
+            </li>
+            <li>
+                <h3>Honor Home Languages</h3>
+                <p>Teachers must recognize home languages are assets and important aspects of diversity in learning. Language not only helps us communicate with each other, but also helps us to interact with the world around us.</p>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <h2 style="background-color: #eeeeee; border-top: solid 3px #a7a9ab; border-bottom: solid 3px #a7a9ab; padding-left: 20px; padding-right: 20px; margin-top: 20px; margin-bottom: 10px;">Engage in Just Technology Use</h2>
+        <img style="float:left;" src="justtechuse.png" alt="Engage in Just Technology Use" width="144" height="144" />
+        <ul style="list-style: none; margin: 0; margin-left: 155px;">
+            <li>
+                <h3>Facilitate Sharing, Communicating, and Deep Inquiry</h3>
+                <p>Technology can provide students with the opportunity to share what they understand and investigate topics deeply. Teachers need to structure technology use so these opportunities are available for all students.</p>
+            </li>
+            <li>
+                <h3>Foster Empowering Knowledge and Contributing to the Classroom and Society</h3>
+                <p>Teachers must structure technology use so that students are empowered to make use of the knowledge they bring while working to contribute to the classroom and society as a whole.</p>
+            </li>
+        </ul>
+    </li>
+</ul>
 
 ## Plan an Intentional Curriculum
 
