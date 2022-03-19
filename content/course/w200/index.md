@@ -31,7 +31,7 @@ JUSTICE | Thoughtful, intentional, and critical evaluation of and planning with 
 In addition, the course is informed by the following throughlines:
 
 ## Plan an Intentional Curriculum
-<img src="assets/media/intentional.jpg" style="float: left;">
+![Throughlines logo](througlinesvalues.jpg)
 
 ### Offer Windows
 Curriculum lends opportunities for all students to see and experience new ideas, perspectives, identities, and ways of being in the world.
