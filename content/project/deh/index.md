@@ -10,7 +10,7 @@ categories: []
 date: 2021-05-15T14:55:03-04:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.digitaleducationhub.org/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
