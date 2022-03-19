@@ -25,7 +25,7 @@ image:
  links:
  - name: Follow
    url: 'https://www.facebook.com/dehiupui'
-   icon_pack: fab
+   icon_pack: fa-brands
    icon: fa-facebook
 # - name: Follow on Twitter
 #   url: 'https://twitter.com/dehiupui'
