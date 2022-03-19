@@ -16,17 +16,17 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Digital Education Hub"
-  focal_point: "Center"
+  caption: ""
+  focal_point: ""
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow on Facebook
-#   url: 'https://www.facebook.com/dehiupui'
-#   icon_pack: fab
-#   icon: facebook
+ links:
+ - name: Follow on Facebook
+   url: 'https://www.facebook.com/dehiupui'
+   icon_pack: fa-brands
+   icon: facebook
 # - name: Follow on Twitter
 #   url: 'https://twitter.com/dehiupui'
 #   icon_pack: fab
