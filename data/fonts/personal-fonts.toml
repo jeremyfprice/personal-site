@@ -5,7 +5,7 @@ name = "personalfonts"
 google_fonts = "family=family=Fira+Code:wght@400;500;600;700&family=Rubik:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Spectral:ital,wght@0,400;0,600;1,400;1,600"
 
 # Font families
-heading_font = "Rubik"
-body_font = "Spectral"
-nav_font = "Rubik"
+heading_font = "Roboto Slab"
+body_font = "Roboto Serif"
+nav_font = "Roboto"
 mono_font = "Fira Code"
