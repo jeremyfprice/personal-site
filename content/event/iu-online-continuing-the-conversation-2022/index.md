@@ -30,9 +30,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
- image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+#image:
+# caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+# focal_point: Right
 
 # links:
 # - icon: twitter
