@@ -15,7 +15,7 @@ external_link: ""
 links:
   - name: Website
     icon_pack: fas
-    icon: arrow-up-right-from-square
+    icon: link
     url: 'https://digitaleducationhub.org/'
   - name: Facebook
     icon_pack: fab
