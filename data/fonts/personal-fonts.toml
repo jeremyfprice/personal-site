@@ -6,6 +6,6 @@ google_fonts = "family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Lor
 
 # Font families
 heading_font = "Merriweather"
-body_font = "Inter"
-nav_font = "Lora"
+body_font = "Noto Sans"
+nav_font = "Merriweather"
 mono_font = "Fira Code"
