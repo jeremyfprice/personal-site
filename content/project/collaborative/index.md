@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "The Equitable and Inclusive STEM Learning Collaborative"
-summary: "A community-engaged response to providing equitable and inclusive learning environments with technology."
+summary: "Umbrella Organization."
 weight: 1
 authors: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Digital Education Hub"
+title: "It Takes A Village: Student Learning Resilience Project"
 summary: "A community-engaged response to providing equitable and inclusive learning environments with technology."
 weight: 1
 authors: []
