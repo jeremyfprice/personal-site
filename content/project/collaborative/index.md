@@ -4,7 +4,7 @@
 title: "The Equitable and Inclusive STEM Learning Collaborative"
 summary: "Umbrella Organization."
 weight: 1
-draft: true
+draft: false
 authors: []
 tags: []
 categories: []
