@@ -13,14 +13,10 @@ date: 2022-05-31
 external_link: ""
 
 links:
-  - icon_pack: fas
-    icon: link
-    name: Website
-    link: 'https://digitaleducationhub.org/'
-  - icon_pack: fab
-    icon: facebook
-    name: Facebook
-    link: 'https://www.facebook.com/dehiupui'
+  - name: Website
+    url: 'https://digitaleducationhub.org/'
+  - Facebook
+    url: 'https://www.facebook.com/dehiupui'
 
 
 # Featured image

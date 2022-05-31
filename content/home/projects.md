@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 45
+weight: 15
 
 title: Research Programs
 subtitle: Lines of scholarship to transform learning environments
