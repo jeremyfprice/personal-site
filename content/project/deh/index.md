@@ -14,13 +14,13 @@ external_link: ""
 
 links:
   - icon_pack: fas
-    icon: fa-link
+    icon: link
     name: Website
-    url: 'https://digitaleducationhub.org/'
+    link: 'https://digitaleducationhub.org/'
   - icon_pack: fab
     icon: facebook
     name: Facebook
-    url: 'https://www.facebook.com/dehiupui'
+    link: 'https://www.facebook.com/dehiupui'
 
 
 # Featured image
