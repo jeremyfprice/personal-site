@@ -12,6 +12,12 @@ date: 2022-05-31
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+links:
+  - icon_pack: fa-solid
+    icon: fa-arrow-up-right-from-square
+    name: Digital Education Hub Website
+    url: 'https://digitaleducationhub.org/'
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
