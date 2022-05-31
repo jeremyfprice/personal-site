@@ -7,5 +7,5 @@ google_fonts = "family=family=Fira+Code:wght@400;500;600;700&family=Rubik:ital,w
 # Font families
 heading_font = "Roboto Slab"
 body_font = "Roboto Serif"
-nav_font = "Roboto"
+nav_font = "Roboto Slab"
 mono_font = "Fira Code"
