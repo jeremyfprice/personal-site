@@ -5,7 +5,7 @@ title: "Digital Education Hub"
 summary: "A community-engaged response to providing equitable and inclusive learning environments with technology."
 weight: 1
 authors: []
-tags: []
+tags: ["Infrastructure Innovation"]
 categories: []
 date: 2022-03-19
 
