@@ -14,7 +14,7 @@ external_link: ""
 
 links:
   - icon_pack: fas
-    icon: arrow-up-right-from-square
+    icon: fa-arrow-up-right-from-square
     name: Digital Education Hub Website
     url: 'https://digitaleducationhub.org/'
 
