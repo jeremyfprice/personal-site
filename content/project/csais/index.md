@@ -23,7 +23,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
  links:
- - name: Data Dashboard
+ - name: Dashboard
    url: 'https://jeremyfprice.github.io/csais-dashboard/'
    icon_pack: fas
    icon: gauge
