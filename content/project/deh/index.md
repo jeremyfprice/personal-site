@@ -15,8 +15,13 @@ external_link: ""
 links:
   - icon_pack: fas
     icon: fa-link
-    name: Digital Education Hub Website
+    name: Website
     url: 'https://digitaleducationhub.org/'
+  - icon_pack: fab
+    icon: facebook
+    name: Facebook
+    url: 'https://www.facebook.com/dehiupui'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
