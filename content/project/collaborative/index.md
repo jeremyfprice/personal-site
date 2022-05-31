@@ -4,11 +4,11 @@
 title: "The Equitable and Inclusive STEM Learning Collaborative"
 summary: "Umbrella Organization."
 weight: 1
-draft: true
+draft: false
 authors: []
 tags: []
 categories: []
-date: 2022-03-19
+date: 2022-05-31
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -18,7 +18,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
