@@ -6,7 +6,7 @@ summary: "A community-engaged response to providing equitable and inclusive lear
 weight: 1
 authors: []
 tags: ["Infrastructure Innovation"]
-categories: []
+categories: ["Infrastructure Innovation"]
 date: 2022-05-31
 
 # Optional external URL for project (replaces project detail page).
