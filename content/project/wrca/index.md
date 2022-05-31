@@ -2,12 +2,12 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Well-Rounded Course Access Project"
-summary: "A community-engaged response to providing equitable and inclusive learning environments with technology."
+summary: "Building accessibility and inclusion into K-12 online courses provided to the students of Indiana."
 weight: 1
 authors: []
 tags: []
-categories: []
-date: 2022-03-19
+categories: ["Infrastructure Innovation"]
+date: 2022-05-31
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -22,15 +22,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: 'https://www.facebook.com/dehiupui'
-#   icon_pack: fa-brands
-#   icon: fa-facebook
-# - name: Follow on Twitter
-#   url: 'https://twitter.com/dehiupui'
-#   icon_pack: fab
-#   icon: twitter
+links:
+  - name: Website
+    url: 'https://www.in.gov/doe/educators/indiana-course-access-network/'
+    icon_pack: fas
+    icon: link
 
 url_code: ""
 url_pdf: ""
@@ -46,6 +42,10 @@ slides: ""
 ---
 
 ## Community-Engaged Responses to Educational Challenges through COVID-19 and Beyond
+
+[[Standard 5](https://www.in.gov/doe/files/blended-and-online-teaching.pdf)]
+
+{{< figure src="csi-wrca.png" caption="Challenges, Strategies, and Infrastructures of the Well-Rounded Course Access Project." >}}
 
 The Digital Education Hub is a research project grounded in the principles of [community-engaged scholarship](https://csl.iupui.edu/teaching-research/public-scholarship/index.html) that provides sustainable and rigorous support in collaboration with communities, families, and educators cultivating equity and inclusion in lifelong learning with technology especially for learners representing structurally marginalized identities and communities.
 
