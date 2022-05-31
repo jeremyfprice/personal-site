@@ -15,7 +15,7 @@ external_link: ""
 links:
   - name: Website
     url: 'https://digitaleducationhub.org/'
-  - Facebook
+  - name: Facebook
     url: 'https://www.facebook.com/dehiupui'
 
 
