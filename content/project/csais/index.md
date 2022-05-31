@@ -26,7 +26,7 @@ links:
   - name: Data Dashboard
     url: 'https://jeremyfprice.github.io/csais-dashboard/'
     icon_pack: fas
-    icon: analytics
+    icon: chart-bar
 
 url_code: ""
 url_pdf: ""
