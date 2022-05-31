@@ -4,9 +4,9 @@
 title: "Community Studies of Antisemitism in Schools"
 summary: "Developing a community typology to address antisemitic incidents in schools."
 authors: []
-tags: ["Useable Knowledge"]
-categories: []
-date: 2021-05-15
+tags: []
+categories: ["Useable Knowledge"]
+date: 2022-05-31
 weight: 2
 
 # Optional external URL for project (replaces project detail page).
@@ -22,11 +22,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+ links:
+ - name: Data Dashboard
+   url: 'https://jeremyfprice.github.io/csais-dashboard/'
+   icon_pack: fas
+   icon: gauge
 
 url_code: ""
 url_pdf: ""
