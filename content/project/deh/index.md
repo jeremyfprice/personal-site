@@ -13,8 +13,8 @@ date: 2022-05-31
 external_link: ""
 
 links:
-  - icon_pack: fa-solid
-    icon: fa-arrow-up-right-from-square
+  - icon_pack: fas
+    icon: arrow-up-right-from-square
     name: Digital Education Hub Website
     url: 'https://digitaleducationhub.org/'
 
