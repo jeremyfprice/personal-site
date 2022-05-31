@@ -21,4 +21,3 @@ image:
   preview_only: false
 
 ---
-This is about Infrastructure Innovations.
