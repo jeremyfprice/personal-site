@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Infrastructure Innovations"
-summary: ""
+summary: "These are projects and works that involve infrastructure innovations."
 weight: 1
 authors: []
 tags: []
