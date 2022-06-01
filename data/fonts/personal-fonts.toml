@@ -8,5 +8,5 @@ google_fonts = "family=Noto+Sans+Mono:wght@400;700&family=Noto+Sans:ital,wght@0,
 # Font families
 heading_font = "Noto Serif"
 body_font = "Noto Sans"
-nav_font = "Noto Sans"
+nav_font = "Inter"
 mono_font = "Noto Sans Mono"
