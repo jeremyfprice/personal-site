@@ -4,19 +4,22 @@ name = "personal"
 # Is theme light or dark?
 light = true
 
+
 # Primary
-primary = "#191919"
+primary = "#3A2A2D"
 
 # Menu
-menu_primary = "#990000"
-menu_text = "#EDEBEB"
-menu_text_active = "#fffff8"
-menu_title = "#fffff8"
+menu_primary = "#741A33"
+#menu_primary = "#3A2A2DEE"
+menu_text = "#D2B04C"
+menu_text_active = "#DBC693"
+menu_title = "#D2B04C"
 
 # Home sections
 home_section_odd = "#ffffff"
-home_section_even = "#EDEBEB"
+home_section_even = "#DBC69318"
 
-[dark]
-  link = "#990000"
-  link_hover = "#990000"
+# Links
+link = "#AC7A44"
+link_hover = "#D2B04C"
+#link = "#D2B04C"

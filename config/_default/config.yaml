@@ -19,6 +19,11 @@ removePathAccents: true
 ############################
 ## MODULES
 ############################
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
 
 module:
   imports:

@@ -2,11 +2,10 @@
 name = "personalfonts"
 
 # Optional Google font URL
-# google_fonts = "family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Merriweather:ital,wght@0,400;0,700;1,400;1,700"
-google_fonts = "family=Noto+Sans+Mono:wght@400;700&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700"
+google_fonts = "family=ABeeZee&family=JetBrains+Mono&family=Lexend"
 
 # Font families
-heading_font = "Noto Serif"
-body_font = "Noto Sans"
-nav_font = "Inter"
-mono_font = "Noto Sans Mono"
+heading_font = "ABeeZee"
+body_font = "Lexend"
+nav_font = "ABeeZee"
+mono_font = "JetBrains Mono"

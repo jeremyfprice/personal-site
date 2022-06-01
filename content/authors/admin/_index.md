@@ -81,7 +81,7 @@ email: ""
 highlight_name: true
 ---
 
-Dr. Jeremy Price is Assistant Professor of Technology, Innovation, and Pedagogy in Urban Education and serves as the Primary Investigator and Project Director for the [Digital Education Hub for Rigorous Remote Learning with Communities](../projects/deh/) and for the nationwide [Community Studies of Antisemitism In Schools (CSAIS)](../projects/csais/) project.
+Dr. Jeremy Price is Assistant Professor of Technology, Innovation, and Pedagogy in Urban Education and serves as the Primary Investigator and Project Director for the [Digital Education Hub for Rigorous Remote Learning with Communities](../project/deh/) and for the nationwide [Community Studies of Antisemitism In Schools (CSAIS)](../project/csais/) project.
 
 As a public scholar-advocate, Dr. Price is invested in using his experiences and expertise to engage and build capacity and capital in educational settings for marginalized and minoritized youth and communities to build, strengthen, and sustain an inclusive and just democratic project. He works to prepare preservice and inservice educators to use technology for just, equitable, and inclusive purposes that honors learners, their identities, and their communities. Dr. Price also works to provide educators in all fields with opportunities to interrogate, examine, and learn to teach through and discuss topics such as race, religion, hate, and extremism.
 
