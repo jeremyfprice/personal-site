@@ -27,6 +27,10 @@ links:
     url: 'https://jeremyfprice.github.io/csais-dashboard/'
     icon_pack: fas
     icon: chart-bar
+  -name: Website
+    url: 'https://jeremyfprice.github.io/csais/'
+    icon_pack: fas
+    icon: link
 
 url_code: ""
 url_pdf: ""
