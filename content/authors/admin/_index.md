@@ -16,7 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Public scholar-advocate invested in working with marginalized and minoritized youth and communities to build an inclusive and just democratic project by transforming learning and teaching environments.
 
-avatar_image: avatar-new.png
+avatar_image: avatar.png
 
 gender:
 - url: "https://pronoun.is/he"

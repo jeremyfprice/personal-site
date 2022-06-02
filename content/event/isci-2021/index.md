@@ -1,8 +1,8 @@
 ---
-title: Thinking About Antisemitism in School
+title: A Discussion About Being Jewish in School
 
-event: Indiana International School
-event_url: https://www.bsu.edu/academics/collegesanddepartments/hoosier-stem-academy/conference
+event: A Discussion About Being Jewish
+# event_url: https://www.bsu.edu/academics/collegesanddepartments/hoosier-stem-academy/conference
 
 location: Online
 address:
@@ -17,9 +17,9 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+date: "2021-03-02"
+#date_end: "2021-03-02"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
