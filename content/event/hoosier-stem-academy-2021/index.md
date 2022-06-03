@@ -30,7 +30,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: "jfp-hoosier_stem.pdf"
+url_slides: "https://indiana-my.sharepoint.com/:b:/g/personal/jfprice_iu_edu/Ef3gtMdBxVxMi4u9OpMJMmsBq5LgEdLzo2EK7q_PhZtlNQ?e=ydfShH"
 url_video: ""
 
 # Markdown Slides (optional).

@@ -30,7 +30,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: "jfp-mwpec-as.pdf"
+url_slides: "https://indiana-my.sharepoint.com/:b:/g/personal/jfprice_iu_edu/EeEmXC7AA9REkdHqPn2zdi8BuFN1x3A5b8qDETLl6s1jTg"
 url_video: ""
 
 # Markdown Slides (optional).

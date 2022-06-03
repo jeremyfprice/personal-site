@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Equitable and Inclusive STEM Learning Collaborative"
+title: "The Collaborative for Equitable and Inclusive STEM Learning"
 summary: "Umbrella Organization."
 weight: 1
 draft: true
