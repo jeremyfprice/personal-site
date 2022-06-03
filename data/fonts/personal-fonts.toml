@@ -2,10 +2,10 @@
 name = "personalfonts"
 
 # Optional Google font URL
-google_fonts = "family=ABeeZee&family=JetBrains+Mono&family=Lexend"
+google_fonts = "family=Carrois+Gothic+SC&family=Fira+Code&family=Carrois+Gothic&family=Lexend&family=Telex"
 
 # Font families
-heading_font = "ABeeZee"
+heading_font = "Telex"
 body_font = "Lexend"
-nav_font = "ABeeZee"
-mono_font = "JetBrains Mono"
+nav_font = "Telex"
+mono_font = "Fira Code"

@@ -19,7 +19,10 @@ all_day: true
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+categories: ["media engagements"]
+tags: ["covid-19"]
+projects:
+  - deh
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -28,9 +31,9 @@ image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Auto
 
-#links:
-#- name: Slides
-#  url: "jfp-hoosier_stem.pdf"
+links:
+  - name: Story
+    url: "https://indianapublicradio.org/news/2020/09/more-than-60-million-going-to-indiana-schools-for-teacher-training-remote-learning/"
 url_code: ""
 url_pdf: ""
 url_slides: ""

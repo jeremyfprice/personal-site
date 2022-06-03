@@ -24,8 +24,9 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [admin]
-tags: [teaching]
+authors: []
+categories: [teaching]
+tags: ["online teaching"]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -41,7 +42,7 @@ featured: true
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://indiana-my.sharepoint.com/:b:/g/personal/jfprice_iu_edu/Eb0QGgG9dhlLhbDcUx2VbzIBJt-onWJHzVeWyq4d6C__vg?e=JMRdhl"
 url_video: ""
 
 # Markdown Slides (optional).
