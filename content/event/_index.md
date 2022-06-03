@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Invited Presentations and Media Engagements
 cms_exclude: true
 
 # View.

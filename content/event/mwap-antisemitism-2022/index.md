@@ -6,8 +6,8 @@ event_url: https://greatlakesequity.org/event/understanding-and-resisting-antise
 
 location: Online
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: A toolkit for understanding, recognizing, and responding to antisemitism in public school meetings.
+abstract: "As public school meetings become more heated and contentious along a range of different issues, from disagreements on matters of protecting public health, to maintaining historical accuracy in the curriculum, the incidence of antisemitic statements, connections with tropes, and the enactment of behaviors have risen alongside these increasingly heated events. This Virtual Roundtable provides an overview of these antisemitic incidents when they occur, connecting them with broader socio-historical contexts, and providing strategies for dealing with them. This Roundtable was facilitated on behalf of the Midwest & Plains Equity Center."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -18,22 +18,19 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: [admin]
+tags: [antisemitism, white nationalism, history in person]
+categories: [scholarship, useable knowledge]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links:
-- name: Slides
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "jfp-mwpec-as.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -41,7 +38,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+# slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -49,17 +46,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+ - csais
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.

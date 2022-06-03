@@ -24,8 +24,8 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: [admin]
+tags: [teaching]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -60,5 +60,3 @@ url_video: ""
 # - example
 
 ---
-
-Online discussion forums have been an integral part of the effort to provide social learning experiences for students online. An area of concern, however, is that frequently social learning and deep, multilevel cognitive learning are treated separately rather than as an inclusive package, with practices and outcomes that are separate and distinct rather than intertwined and co-generative. This proposal describes an approach that recognizes the tricky concept of time, the importance of scaffolding and social constructivism, and the need to ground online practices in a spiral approach (Bruner, 2009; National Research Council, 2000) with Bloom’s revised taxonomy (Krathwohl, 2002; Wedlock, 2017) as a guide. Students are paired in online discussions over three-week units in which the unit follows a scaffolded Understanding-Analyzing-Transforming structure. Pairs provide each other feedback in order to support each other’s growth and learning.
