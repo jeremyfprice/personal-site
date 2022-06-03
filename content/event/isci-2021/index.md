@@ -1,16 +1,10 @@
 ---
 title: A Discussion About Being Jewish in School
 
-event: A Discussion About Being Jewish
-# event_url: https://www.bsu.edu/academics/collegesanddepartments/hoosier-stem-academy/conference
+event: International School of Indiana Diversity Week
+event_url: https://www.isind.org/
 
 location: Online
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."

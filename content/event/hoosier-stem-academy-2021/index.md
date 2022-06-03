@@ -1,5 +1,5 @@
 ---
-title: Teaching as Gardening with Technology-Supporting Equity, Inclusion, and Engagement
+title: "Teaching as Gardening with Technology: Supporting Equity, Inclusion, and Engagement"
 
 event: Hoosier STEM Academy Conference
 event_url: https://www.bsu.edu/academics/collegesanddepartments/hoosier-stem-academy/conference
@@ -28,12 +28,9 @@ image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Auto
 
-links:
-- name: Slides
-  url: "jfp-hoosier_stem.pdf"
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "jfp-hoosier_stem.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
