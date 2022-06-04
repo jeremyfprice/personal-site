@@ -23,25 +23,25 @@ gender:
   description: "he/him/his"
 
 # Interests to show in About widget
-#interests:
-#- Critical Educational Technology
-#- Community-Engaged Scholarship
-#- Social Justice Education
-#- Antisemitism and Online Hate
-#- White and Christian Nationalism
+interests:
+- Critical Educational Technology
+- Community-Engaged Scholarship
+- Social Justice Education
+- Antisemitism and Online Hate
+- White and Christian Nationalism
 
 # Education to show in About widget
-#education:
-#  courses:
-#  - course: PhD, Curriculum and Instruction, STEM Education
-#    institution: Lynch School of Education, Boston College
-#    year: 2013
-#  - course: EdM, Technology in Education
-#    institution: Harvard Graduate School of Education
-#    year: 2003
-#  - course: BA, Cultural Anthropology
-#    institution: Brandeis University
-#    year: 1995
+education:
+  courses:
+  - course: PhD, Curriculum and Instruction, STEM Education
+    institution: Lynch School of Education, Boston College
+    year: 2013
+  - course: EdM, Technology in Education
+    institution: Harvard Graduate School of Education
+    year: 2003
+  - course: BA, Cultural Anthropology
+    institution: Brandeis University
+    year: 1995
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -58,7 +58,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: orcid
-  icon_pack: fab
+  icon_pack: ai
   link: https://orcid.org/0000-0002-6506-3526
 - icon: github
   icon_pack: fab
@@ -70,9 +70,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/jfp-vita.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Infrastructure Innovations"
-summary: "These are projects and works that involve infrastructure innovations."
+title: "Infrastructure Innovation"
+summary: "Projects and works that involve infrastructure innovations."
 weight: 1
 authors: []
 tags: []
@@ -17,7 +17,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 ---

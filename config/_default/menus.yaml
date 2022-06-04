@@ -10,14 +10,14 @@ main:
   - name: Research Programs
     url: '#projects'
     weight: 30
-  - name: Publications
-    url: '#featured'
+  - name: Scholarship
+    url: '#scholarship'
     weight: 40
   - name: Events
-    url: '#talks'
+    url: '#events'
     weight: 45
-  - name: Courses
-    url: '#courses'
+  - name: Teaching
+    url: '#teaching'
     weight: 50
   - name: CV
     url: 'cv/'

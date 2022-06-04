@@ -4,7 +4,7 @@
 title: "The Digital Education Hub Design Process"
 authors: [admin, "Amy Waechter-Versaw", "Ted Hall", "Paula Magee", "Cristina Santamaría Graff", "Craig Willey", "Brooke Moreland"]
 date: 2022-05-16T15:25:05-04:00
-doi: "https://doi.org/10.7912/aab7-g327"
+doi: "10.7912/aab7-g327"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-05-15T15:25:05-04:00
@@ -24,7 +24,7 @@ abstract: "The Digital Education Hub Design Process is designed to give teachers
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["instructional design", "infrastructure innovation"]
+tags: ["instructional design"]
 categories: ["infrastructure innovation"]
 featured: true
 
@@ -33,8 +33,6 @@ featured: true
 links:
   - name: ScholarWorks
     url: https://hdl.handle.net/1805/28999
-#   icon_pack: fab
-#   icon: twitter
 
 #url_pdf: https://scholarworks.iupui.edu/bitstream/handle/1805/28999/Digital%20Education%20Hub%20Design%20Process.pdf?sequence=1&isAllowed=y
 url_code:

@@ -35,3 +35,16 @@
   font-weight: bold; }
 
 h1 { font-weight: bold; }
+
+.alert-note { background-color: orange; }
+
+.article-style aside,
+.alert-note {
+  background-color: #4F51FE20;
+  color: #4F51FE;
+  border-color: #4F51FE; }
+
+  .alert-warning {
+    color: #CD201910;
+    background-color: #CD2019;
+    border-color: #CD2019; }
