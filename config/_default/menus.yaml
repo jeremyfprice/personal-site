@@ -13,7 +13,7 @@ main:
   - name: Publications
     url: '#featured'
     weight: 40
-  - name: Presentations
+  - name: Events
     url: '#talks'
     weight: 45
   - name: Courses

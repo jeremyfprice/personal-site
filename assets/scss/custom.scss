@@ -1,0 +1,37 @@
+.article-categories {
+  font-family: 'Red Hat Mono', monospace;
+  text-transform: uppercase;
+  white-space: nowrap;
+  /* Keep category icon on same line as category links, otherwise context lost. */ }
+
+.article-tags {
+  font-family: 'Red Hat Mono', monospace;
+  text-transform: lowercase; }
+
+  .article-tags:before {
+    color: #757575;
+    font-family: "Font Awesome 5 Free";
+          content: "\f02b";
+          display: inline-block;
+          padding-right: 3px;
+          vertical-align: middle;
+          font-weight: 900; }
+
+.article-date {
+  font-family: 'Red Hat Mono', monospace;
+  text-transform: uppercase; }
+
+/*.article-date:before {
+  font-family: "Font Awesome 5 Free";
+        content: "\f133";
+        display: inline-block;
+        padding-right: 3px;
+        vertical-align: middle;
+        font-weight: 900; }*/
+
+.btn {
+  font-family: 'Varela Rounded', 'Red Hat Mono', monospace;
+  text-transform: lowercase;
+  font-weight: bold; }
+
+h1 { font-weight: bold; }

@@ -18,7 +18,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [admin]
+authors: []
 tags: [antisemitism, white nationalism, history in person]
 categories: [scholarship, useable knowledge]
 

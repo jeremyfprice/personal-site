@@ -2,10 +2,10 @@
 name = "personalfonts"
 
 # Optional Google font URL
-google_fonts = "family=Carrois+Gothic+SC&family=Fira+Code&family=Carrois+Gothic&family=Lexend&family=Telex"
+google_fonts = "family=Varela+Rounded&family=Fira+Code&family=Red+Hat+Mono&family=Nunito+Sans"
 
 # Font families
-heading_font = "Telex"
-body_font = "Lexend"
-nav_font = "Telex"
-mono_font = "Fira Code"
+heading_font = "Varela Rounded"
+body_font = "Nunito Sans"
+nav_font = "Varela Rounded"
+mono_font = "Red Hat Mono"

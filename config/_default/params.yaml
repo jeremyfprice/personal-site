@@ -124,14 +124,14 @@ breadcrumb:
 comments:
   provider: ''
   commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
+    post: false
+    book: false
+    project: false
+    publication: false
+    event: false
   disqus:
     shortname: ''
-    show_count: true
+    show_count: false
   commento:
     url: ''
 search:

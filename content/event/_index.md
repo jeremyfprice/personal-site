@@ -1,5 +1,5 @@
 ---
-title: Invited Presentations and Media Engagements
+title: Invited Talks and Media Engagements
 cms_exclude: true
 
 # View.

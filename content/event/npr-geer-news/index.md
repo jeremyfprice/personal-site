@@ -6,7 +6,7 @@ event_url: https://indianapublicradio.org/news/2020/09/more-than-60-million-goin
 
 location: Radio Broadcast
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: An interview with Indiana Public Radio on the educational response to COVID-19.
 abstract: 'A team from Indiana University’s School of Education at IUPUI is creating a digital remote learning hub using the funding. Jeremy Price is a professor of technology, innovation and pedagogy, and says his team’s digital hub will focus on providing more equitable solutions for students. “With tutorials, model lesson plans, and mini courses to address the challenges of remote and hybrid learning due to COVID-19,” he said.'
 
 # Talk start and end times.
