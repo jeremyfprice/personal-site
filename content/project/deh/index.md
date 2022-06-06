@@ -1,18 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
+#title: "CEISL//Digital Education Hub"
 title: "Digital Education Hub"
 summary: "A community-engaged response to providing equitable and inclusive learning environments with technology."
-weight: 1
+weight: 2
 authors: []
 tags: []
 categories: ["Infrastructure Innovation"]
-date: 2022-05-31
+date: 2020-09-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 links:
+#  - name: ceisl
+#    url: 'project/ceisl'
+#    icon_pack: fas
+#    icon: box-open
   - name: Website
     icon_pack: fas
     icon: link
@@ -22,7 +27,6 @@ links:
     icon: facebook
     url: 'https://www.facebook.com/dehiupui'
 
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -30,18 +34,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: 'https://www.facebook.com/dehiupui'
-#   icon_pack: fa-brands
-#   icon: fa-facebook
-# - name: Follow on Twitter
-#   url: 'https://twitter.com/dehiupui'
-#   icon_pack: fab
-#   icon: twitter
 
 url_code: ""
 url_pdf: ""
@@ -54,6 +46,8 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+projects: ['ceisl']
 ---
 
 ## Community-Engaged Responses to Educational Challenges through COVID-19 and Beyond
@@ -79,32 +73,3 @@ Six throughlines shape the framework for the Digital Education Hub, connecting a
 * **Equitable Practices and Systems:** Leading learning and knowledge sharing mediated through equitable and inclusive dispositions that promotes the success of disenfranchised learners and communities.
 
 * **Multiple Ways of Knowing and Doing:** The knowledge and wisdom of the students, families, and communities are centered in content and pedagogical decisions to promote equitable and inclusive learning experiences.
-
-## Project Products
-
-As the project evolves, a number of community-oriented and research-oriented projects will be created.
-
-### Community-Oriented
-
-* The Digital Education Hub **Website**
-
-* The Digital Education Hub **Instructional Design Model**
-
-* The Digital Education Hub **Teacher Network**
-
-* The Digital Education Hub **Community Caucus**
-
-* The Digital Education Hub **Summer Institute**
-
-### Research-Oriented
-
-* **Price, J. F.**, Magee, P., Santamaría Graff, C., Hall, T., Cervantes Barrera, J.,
-Foote, R., & Snorten, C. (2020, October 26-28). *A Framework for Sustainable
-Culturally Relevant and Inclusive Teaching During Remote and Hybrid Learning*.
-Society for Information Technology in Teacher Education Interactive Conference,
-Online. [[Presentation](site-fall2020-framework.pdf)]
-
-* **Price, J. F.**, Santamaría Graff, C., Hall, T., Cervantes Barrera, J., Foote, R., &
-Snorten, C. (2020, October 26-28). *Technology as a Bridge to Co-Create
-Environments for Equity and Inclusion in Education*. Society for Information
-Technology in Teacher Education Interactive Conference, Online. [[Presentation](site-fall2020-birdsofafeather.pdf)]

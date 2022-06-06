@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Technology as a Bridge to Co-Create Environments for Equity and Inclusion in Education"
-authors: ['admin', 'Cristina Santamaría Graff', 'Paula Magee', 'Ted Hall']
-date: 2020-10-27
+authors: ['Cristina Santamaría Graff', 'admin', 'M. Nickie Coomer']
+date: 2022-09-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,10 +13,10 @@ publishDate: 2020-10-27
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Society for Information Technology in Teacher Education Interactive Conference, Online"
+publication: "Using Technology to Enhance Special Education"
 publication_short: ""
 
 abstract: "Blah blah blah"
@@ -33,7 +33,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: publication/framework-for-sustainable-culturally-relevant-and-inclusive-teaching/site-fall2020-framework.pdf
+url_slides:
 url_source:
 url_video:
 

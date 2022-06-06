@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Collaborative for Equitable and Inclusive STEM Learning"
-summary: "Umbrella Organization."
+title: "Collaborative for Equitable and Inclusive STEM Learning (CEISL)"
+summary: "A collaborative of faculty, staff, and community members to support culturally relevant and universally designed STEM learning."
 weight: 1
 draft: true
 authors: []
 tags: []
-categories: []
+categories: [Infrastructure Innovation]
 date: 2022-05-31
 
 # Optional external URL for project (replaces project detail page).
@@ -46,53 +46,14 @@ url_video: ""
 slides: ""
 ---
 
-## Community-Engaged Responses to Educational Challenges through COVID-19 and Beyond
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Aliquet sagittis id consectetur purus ut faucibus. Laoreet suspendisse interdum consectetur libero. Ullamcorper dignissim cras tincidunt lobortis. Etiam dignissim diam quis enim lobortis scelerisque. Fusce ut placerat orci nulla pellentesque. Dignissim sodales ut eu sem integer vitae. Mi ipsum faucibus vitae aliquet nec ullamcorper sit. Libero enim sed faucibus turpis in. Facilisis gravida neque convallis a cras. Integer eget aliquet nibh praesent tristique. Dui vivamus arcu felis bibendum ut tristique et egestas. In vitae turpis massa sed elementum. Duis at tellus at urna condimentum mattis. Diam sit amet nisl suscipit.
 
-The Digital Education Hub is a research project grounded in the principles of [community-engaged scholarship](https://csl.iupui.edu/teaching-research/public-scholarship/index.html) that provides sustainable and rigorous support in collaboration with communities, families, and educators cultivating equity and inclusion in lifelong learning with technology especially for learners representing structurally marginalized identities and communities.
+Consectetur adipiscing elit ut aliquam purus sit amet luctus venenatis. Lorem ipsum dolor sit amet consectetur. Ut sem viverra aliquet eget sit. Morbi enim nunc faucibus a pellentesque sit. Eget mi proin sed libero. Erat nam at lectus urna duis convallis convallis tellus id. Sapien faucibus et molestie ac feugiat sed lectus vestibulum mattis. Gravida cum sociis natoque penatibus et magnis dis parturient montes. Et leo duis ut diam quam. Facilisis magna etiam tempor orci. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tristique senectus et netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum. Ipsum suspendisse ultrices gravida dictum fusce.
 
-The Digital Education Hub is an online resource that provides educators and families with Learning, Networking, and Resources through tutorials, model lesson plans, and mini-courses to address the challenges of remote and hybrid learning due to COVID-19.
+## CEISL Projects
 
-The project is built on the recognition that the role of parents and families in the learning process are even more important than in "typical" times and that educational inequalities are greatly magnified during times of crises. The critical issues that have arisen because of COVID-19 are not new, so the Digital Education Hub seeks long-term changes in dispositions, instructional decisions, curriculum and materials design, and policy.
+The heart of CEISL's work are the projects. The following are past and present projects of the Collaborative.
 
-Six throughlines shape the framework for the Digital Education Hub, connecting all parts of the project:
-
-* **Empowering Communities and Families:** Families and community members are key stakeholders in determining the ways materials and resources are accessible, equitable, and inclusive for all students.
-
-* **Coalition Building:** The educational environment is co-constructed through a historical reciprocal process of interdependence to ensure all voices are included in building equitable and inclusive learning networks and partnerships.
-
-* **Deep and Transformational Learning:** The promotion of academic success through a rigorous and integrated process that honors learners and communities as cultural entities and works to change the world to be a more equitable and inclusive place.
-
-* **Intentional Use of Technology:** Technology is used in a purposeful manner that is informed by context and is oriented towards building equitable and inclusive learning environments.
-
-* **Equitable Practices and Systems:** Leading learning and knowledge sharing mediated through equitable and inclusive dispositions that promotes the success of disenfranchised learners and communities.
-
-* **Multiple Ways of Knowing and Doing:** The knowledge and wisdom of the students, families, and communities are centered in content and pedagogical decisions to promote equitable and inclusive learning experiences.
-
-## Project Products
-
-As the project evolves, a number of community-oriented and research-oriented projects will be created.
-
-### Community-Oriented
-
-* The Digital Education Hub **Website**
-
-* The Digital Education Hub **Instructional Design Model**
-
-* The Digital Education Hub **Teacher Network**
-
-* The Digital Education Hub **Community Caucus**
-
-* The Digital Education Hub **Summer Institute**
-
-### Research-Oriented
-
-* **Price, J. F.**, Magee, P., Santamaría Graff, C., Hall, T., Cervantes Barrera, J.,
-Foote, R., & Snorten, C. (2020, October 26-28). *A Framework for Sustainable
-Culturally Relevant and Inclusive Teaching During Remote and Hybrid Learning*.
-Society for Information Technology in Teacher Education Interactive Conference,
-Online. [[Presentation](site-fall2020-framework.pdf)]
-
-* **Price, J. F.**, Santamaría Graff, C., Hall, T., Cervantes Barrera, J., Foote, R., &
-Snorten, C. (2020, October 26-28). *Technology as a Bridge to Co-Create
-Environments for Equity and Inclusion in Education*. Society for Information
-Technology in Teacher Education Interactive Conference, Online. [[Presentation](site-fall2020-birdsofafeather.pdf)]
+  * [Digital Education Hub](../deh)
+  * [It Takes A Village: Student Learning Resilience Project](../slrp)
+  * [Well-Rounded Course Project: Accessibility and Inclusion](../wrca)

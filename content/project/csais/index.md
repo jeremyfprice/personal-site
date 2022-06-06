@@ -7,7 +7,7 @@ authors: []
 tags: [scholarship, useable knowledge, antisemitism, white nationalism]
 categories: [useable knowledge]
 date: 2022-05-31
-weight: 2
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

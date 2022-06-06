@@ -1,13 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
+#title: "CEISL//Well-Rounded Course Access Project"
 title: "Well-Rounded Course Access Project"
 summary: "Building accessibility and inclusion into K-12 online courses provided to the students of Indiana."
-weight: 4
+weight: 3
 authors: []
 tags: []
 categories: ["Infrastructure Innovation"]
-date: 2022-05-31
+date: 2022-03-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

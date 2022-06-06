@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "It Takes A Village: Student Learning Resilience Project"
-summary: "A community-engaged response to providing equitable and inclusive learning environments with technology."
-weight: 1
+title: "CEISL//It Takes A Village: Student Learning Resilience Project"
+summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+weight: 3
 authors: []
 tags: []
 categories: ["Infrastructure Innovation"]
-date: 2022-03-19
+date: 2022-09-01
 draft: true
 
 # Optional external URL for project (replaces project detail page).
