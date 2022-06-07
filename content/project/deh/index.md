@@ -6,8 +6,8 @@ title: "Digital Education Hub"
 summary: "A community-engaged response to providing equitable and inclusive learning environments with technology."
 weight: 2
 authors: []
-tags: []
-categories: ["Infrastructure Innovation"]
+tags: ["infrastructure innovation"]
+categories: [scholarship]
 date: 2020-09-01
 
 # Optional external URL for project (replaces project detail page).
@@ -47,7 +47,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
-projects: ['ceisl']
 ---
 
 ## Community-Engaged Responses to Educational Challenges through COVID-19 and Beyond

@@ -33,6 +33,8 @@ image:
 
 links:
   - name: Story
+    icon_pack: fas
+    icon: microphone
     url: "https://indianapublicradio.org/news/2020/09/more-than-60-million-going-to-indiana-schools-for-teacher-training-remote-learning/"
 url_code: ""
 url_pdf: ""

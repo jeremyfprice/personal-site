@@ -6,7 +6,10 @@
 main:
   - name: Home
     url: '/'
-    weight: 10
+    weight: 5
+#  - name: Appointments
+#    url: '#experience'
+#    weight: 10
   - name: Research Programs
     url: '#projects'
     weight: 30
@@ -19,8 +22,8 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 50
-  - name: CV
-    url: 'cv/'
+  - name: Honors
+    url: '#honors'
     weight: 60
 #  - name: Contact
 #    url: '#contact'

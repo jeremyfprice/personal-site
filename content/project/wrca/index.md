@@ -6,8 +6,8 @@ title: "Well-Rounded Course Access Project"
 summary: "Building accessibility and inclusion into K-12 online courses provided to the students of Indiana."
 weight: 3
 authors: []
-tags: []
-categories: ["Infrastructure Innovation"]
+tags: [infrastructure innovation, equity and inclusion, online teaching]
+categories: [scholarship]
 date: 2022-03-01
 
 # Optional external URL for project (replaces project detail page).

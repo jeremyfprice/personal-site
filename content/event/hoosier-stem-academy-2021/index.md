@@ -19,7 +19,7 @@ all_day: true
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: ["online teaching", "hybrid teaching", "face to face teaching"]
+tags: ["instructional design", "online teaching", "hybrid teaching", "face to face teaching", "equity and inclusion"]
 categories: [teaching]
 
 # Is this a featured talk? (true/false)

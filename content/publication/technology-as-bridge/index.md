@@ -19,12 +19,12 @@ publication_types: ["6"]
 publication: "Using Technology to Enhance Special Education"
 publication_short: ""
 
-abstract: "Blah blah blah"
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Community Engaged Scholarship", "Equitable and Inclusive Educational Technology"]
+tags: ["infrastructure innovation", "community engaged", "equity and inclusion", "educational technology"]
 categories: ["Scholarship"]
 featured: true
 

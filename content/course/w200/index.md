@@ -5,7 +5,7 @@ draft: false
 hideLastModified: false
 summary: "The course that all undergraduate teacher education students take prior to being admitted into the program."
 summaryImage: "w200.png"
-tags: ["undergraduate", "technology"]
+tags: ["undergraduate", "educational technology", "equity and inclusion"]
 resources:
 - src: w200.png
 ---
@@ -75,7 +75,7 @@ The following enduring understandings guides the course, and provides a unit-bas
 
 UNIT | Enduring Understandings | Culminating Performance
 -----|-------------------------|-------------------------
-OVERARCHING | Technology can serve as a resource to connect with other teachers to grow, learn, and participate in a community of educators engaged in intentional, inclusive, and just teaching with technology. | 
+OVERARCHING | Technology can serve as a resource to connect with other teachers to grow, learn, and participate in a community of educators engaged in intentional, inclusive, and just teaching with technology. |
 SELF | Past experiences with education and technology influence who teachers are in the present as a student and in the future as an educator engaged in intentional, inclusive, and just teaching. | Virtual Cajita
 TRUTH | Technology can be used to embrace, provide access to, and find truth in the complexities of the information-driven modern era. | Annotated Article
 VOICE | Technology can serve to provide access to and elevate the voices of the silenced and oppressed and marginalize hate. | Online Hate Public Service Announcement

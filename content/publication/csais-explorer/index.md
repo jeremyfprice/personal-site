@@ -24,8 +24,8 @@ abstract: "This is a companion document to the CSAIS (Community Studies of Antis
 # Summary. An optional shortened abstract.
 summary: "A companion document to the CSAIS (Community Studies of Antisemitism In Schools) Community Typology Explorer which can be found at https://jeremyfprice.github.io/csais-dashboard/."
 
-tags: [antisemitism, "white nationalism"]
-categories: ["infras"]
+tags: ["useable knowledge", antisemitism, "white nationalism"]
+categories: ["scholarship"]
 featured: true
 
 # Custom links (optional).

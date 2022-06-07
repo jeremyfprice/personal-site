@@ -5,7 +5,8 @@ draft: false
 summary: "This course investigates innovations, emerging technologies, and technology's role in education
 reform."
 summaryImage: "w550.png"
-tags: ["graduate", "technology"]
+tags: ["graduate", "educational technology", "equity and inclusion", "white nationalism", ai]
+categories: teaching
 resources:
 - src: w550.png
 ---

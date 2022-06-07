@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "CEISL//It Takes A Village: Student Learning Resilience Project"
+title: "It Takes A Village: Student Learning Resilience Project"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 weight: 3
 authors: []

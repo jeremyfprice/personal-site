@@ -4,7 +4,7 @@ date: 2021-05-01
 draft: false
 summary: "A survey of educational technology in context."
 summaryImage: "w531.png"
-tags: ["graduate", "technology", online]
+tags: ["graduate", "educational technology"]
 categories: [teaching]
 resources:
 - src: w531.png

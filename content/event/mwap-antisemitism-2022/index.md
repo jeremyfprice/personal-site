@@ -19,8 +19,8 @@ all_day: true
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: [antisemitism, white nationalism, history in person]
-categories: [scholarship, useable knowledge]
+tags: ["useable knowledge", antisemitism, white nationalism, history in person]
+categories: [scholarship]
 
 # Is this a featured talk? (true/false)
 featured: true

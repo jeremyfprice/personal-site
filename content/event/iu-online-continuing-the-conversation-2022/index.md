@@ -26,7 +26,7 @@ publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 categories: [teaching]
-tags: ["online teaching"]
+tags: ["instructional design", "online teaching"]
 
 # Is this a featured talk? (true/false)
 featured: true
