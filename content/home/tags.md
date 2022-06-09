@@ -2,7 +2,7 @@
 # An instance of the Tag Cloud widget.
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
-active: true
+active: false
 # This file represents a page section.
 headless: true
 
@@ -14,7 +14,7 @@ subtitle: 'Areas of focus across the full range of the work'
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
-  taxonomy: tags
+  taxonomy: categories
   # Choose how many tags you would like to display (0 = all tags)
   count: 0
 design:

@@ -10,7 +10,6 @@ primary = "#3A2A2D"
 
 # Menu
 menu_primary = "#741A33"
-#menu_primary = "#3A2A2DEE"
 menu_text = "#D2B04C"
 menu_text_active = "#DBC693"
 menu_title = "#D2B04C"
@@ -22,4 +21,3 @@ home_section_even = "#DBC69318"
 # Links
 link = "#AC7A44"
 link_hover = "#D2B04C"
-#link = "#D2B04C"

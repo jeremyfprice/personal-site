@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: Scholarship
-subtitle: ""
+subtitle: "Recent publications and presentations"
 
 content:
   # Page type to display. E.g. post, talk, publication...

@@ -10,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 75
 
-title: 'Invited Presentations and Media Engagements'
-subtitle:
+title: Events
+subtitle: 'Invited presentations and media engagements'
 
 content:
   # Page type to display. E.g. post, event, publication...
