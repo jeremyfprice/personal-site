@@ -7,7 +7,7 @@ event_url: https://www.isind.org/
 location: Online
 
 summary: A discussion the experiences of being Jewish in school for middle schoolers.
-abstract: "In collaboration with Diversity Week at the International School of Indiana, ."
+abstract: "In collaboration with Diversity Week at the International School of Indiana, a perspective on what the experience of Jewish children in schools is like. The presentation pulls from both personal experience and national research into antisemitism in schools."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
