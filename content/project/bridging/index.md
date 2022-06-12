@@ -8,32 +8,32 @@ categories: ["teaching as stance"]
 tags: ["teaching as stance", "educational technology", "instructional design", "equity and inclusion"]
 ---
 
-# Understanding the Context
+## Understanding the Context
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Aliquet sagittis id consectetur purus ut faucibus. Laoreet suspendisse interdum consectetur libero. Ullamcorper dignissim cras tincidunt lobortis. Etiam dignissim diam quis enim lobortis scelerisque. Fusce ut placerat orci nulla pellentesque. Dignissim sodales ut eu sem integer vitae. Mi ipsum faucibus vitae aliquet nec ullamcorper sit. Libero enim sed faucibus turpis in. Facilisis gravida neque convallis a cras. Integer eget aliquet nibh praesent tristique. Dui vivamus arcu felis bibendum ut tristique et egestas. In vitae turpis massa sed elementum. Duis at tellus at urna condimentum mattis. Diam sit amet nisl suscipit.
+Compared to the broader field of Research on Teacher Education, Research on Teacher Education with Technology is far behind in terms of understanding the teacher preparation process as an act that prepares people to engage in *identity* and *cultural work* to promote justice, equity, and inclusion in classrooms for each student.
 
 {{< figure src="diff.png" caption="Logarithmic differences in ERIC descriptors between Teacher Education with Technology and Teacher Education as a whole." >}}
 
-Consectetur adipiscing elit ut aliquam purus sit amet luctus venenatis. Lorem ipsum dolor sit amet consectetur. Ut sem viverra aliquet eget sit. Morbi enim nunc faucibus a pellentesque sit. Eget mi proin sed libero. Erat nam at lectus urna duis convallis convallis tellus id. Sapien faucibus et molestie ac feugiat sed lectus vestibulum mattis. Gravida cum sociis natoque penatibus et magnis dis parturient montes. Et leo duis ut diam quam. Facilisis magna etiam tempor orci. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tristique senectus et netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum. Ipsum suspendisse ultrices gravida dictum fusce.
+Informing and informed by research and policy, the coursework and preparation programs in which preservice educators experience are reflective of these trends. It is therefore necessary to engage in intentional moves, practices, and discourses to bring about change in the field.
 
-# Identifying an Approach
+## Mapping an Approach
 
-{{< figure src="bridging-map.png" caption="Map of the program of inquiry." >}}
+In order to facilitate this necessary shift in the field of Research on Teaching, I am intentionally engaged in four intertwined activities.
 
-Consectetur adipiscing elit ut aliquam purus sit amet luctus venenatis. Lorem ipsum dolor sit amet consectetur. Ut sem viverra aliquet eget sit. Morbi enim nunc faucibus a pellentesque sit. Eget mi proin sed libero. Erat nam at lectus urna duis convallis convallis tellus id. Sapien faucibus et molestie ac feugiat sed lectus vestibulum mattis. Gravida cum sociis natoque penatibus et magnis dis parturient montes. Et leo duis ut diam quam. Facilisis magna etiam tempor orci. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tristique senectus et netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum. Ipsum suspendisse ultrices gravida dictum fusce.
+{{< figure src="bridging-map.png" caption="Map of the approach." >}}
 
-## Literature Review as Stance
+### <i class="fas fa-book-reader" style="color:#990000;"></i> Literature Review as Stance
 
-Understanding the field as it is and recognizing opportunities for paths forward.
+Literature reviews as a genre help us understand the field as it is and recognize opportunities for paths forward. My literature review process includes a novel approach to understanding not just the literature that comprises the field, but also their relationships and ways in which themes such as justice, equity, and inclusion represents a large gap for the field.
 
-## Curriculum and Course Design
+### <i class="fas fa-drafting-compass" style="color:#59264D;"></i> Curriculum and Course Design
 
-Culturally Relevant Pedagogy and Universal Design for Learning, Intentional Practices and Deep Learning, Identity Work and Mirrors, Windows, and Sliding Glass Doors.
+Preservice teachers are prepared through coursework and guided experiences. An important direction is to orient these experiences through culturally relevant pedagogy and universal design for learning. These frameworks provide a lens for preservice and inservice teachers to consider their work with justice, equity, and inclusion in mind.
 
-## Inquiry and Evaluation
+### <i class="fas fa-search" style="color:#006298;"></i> Inquiry and Evaluation
 
-Blah blah blah.
+Reflective practice and justice-oriented praxis as a teacher educator is an important aspect of this work. I therefore engage in regular self-studies and evaluations using a range of data sources, such as my curriculum, student artifacts and feedback, and student evaluations.
 
-## Dissemination and Discourse
+### <i class="fas fa-comment-dots" style="color:#FFAA00;"></i> Dissemination and Discourse
 
-Blah blah blah.
+Publications, presentations, reports, and tools are material ways of impacting the field. I engage in producing a range of artifacts for different audiences (researchers, practitioners, policy makers) to faciliate shifts in the field.
