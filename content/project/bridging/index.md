@@ -2,10 +2,10 @@
 title: "Bridging Teacher Preparation, Technology, and Justice"
 summary: "Bringing ideas of racial justice and inclusivity into the field of Teacher Education with Technology."
 date: 2022-06-06
-draft: true
+draft: false
 weight: 5
-categories: ["useable knowledge", "infrastructure innovation", teaching, scholarship]
-tags: ["educational technology", "instructional design", "equity and inclusion"]
+categories: ["teaching as stance"]
+tags: ["teaching as stance", "educational technology", "instructional design", "equity and inclusion"]
 ---
 
 # Understanding the Context

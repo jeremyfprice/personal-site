@@ -35,14 +35,14 @@ featured: true
 # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 # focal_point: Right
 
-# links:
-# - icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+links:
+  - icon: slideshare
+    icon_pack: fab
+    name: slides
+    url: https://indiana-my.sharepoint.com/:b:/g/personal/jfprice_iu_edu/Eb0QGgG9dhlLhbDcUx2VbzIBJt-onWJHzVeWyq4d6C__vg?e=JMRdhl
 url_code: ""
 url_pdf: ""
-url_slides: "https://indiana-my.sharepoint.com/:b:/g/personal/jfprice_iu_edu/Eb0QGgG9dhlLhbDcUx2VbzIBJt-onWJHzVeWyq4d6C__vg?e=JMRdhl"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).

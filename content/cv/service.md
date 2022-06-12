@@ -8,7 +8,7 @@ weight: 30
 design:
   columns: "2"
 
-
+active: false
 ---
 
 * blah

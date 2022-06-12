@@ -70,6 +70,7 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
+  grant: grants
 related:
   threshold: 80
   includeNewer: true

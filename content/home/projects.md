@@ -5,6 +5,7 @@ widget: portfolio
 
 # This file represents a page section.
 headless: true
+active: false
 
 # Order that this section appears on the page.
 weight: 15
@@ -34,15 +35,17 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---
+
+{{< figure src="diff.png" caption="Logarithmic differences in ERIC descriptors between Teacher Education with Technology and Teacher Education as a whole." >}}

@@ -4,27 +4,27 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '/'
-    weight: 5
+#  - name: home
+#    url: '/'
+#    weight: 5
 #  - name: Appointments
 #    url: '#experience'
 #    weight: 10
-  - name: Research Programs
-    url: '#projects'
+  - name: research programs
+    url: "programs"
     weight: 30
-  - name: Scholarship
-    url: '#scholarship'
+  - name: publications
+    url: 'publication'
     weight: 40
-  - name: Events
-    url: '#events'
-    weight: 45
-  - name: Teaching
-    url: '#teaching'
-    weight: 50
-  - name: Honors
-    url: '#honors'
-    weight: 60
+#  - name: talks
+#    url: '#events'
+#    weight: 45
+  - name: "in brevitis"
+    url: cv
+    weight: 47
+  - name: courses
+    url: 'course'
+    weight: 46
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60

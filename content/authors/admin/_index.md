@@ -6,7 +6,7 @@ title: Jeremy F Price
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Education of Technology, Innovation, and Pedagogy in Urban Education
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -23,25 +23,23 @@ gender:
   description: "he/him/his"
 
 # Interests to show in About widget
-interests:
-- Critical Educational Technology
-- Community-Engaged Scholarship
-- Social Justice Education
-- Antisemitism and Online Hate
-- White and Christian Nationalism
+#interests:
+#- Critical Educational Technology
+#- Community-Driven STEM Education
+#- Antisemitism in Schools
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD, Curriculum and Instruction, STEM Education
-    institution: Lynch School of Education, Boston College
-    year: 2013
-  - course: EdM, Technology in Education
-    institution: Harvard Graduate School of Education
-    year: 2003
-  - course: BA, Cultural Anthropology
-    institution: Brandeis University
-    year: 1995
+#education:
+#  courses:
+#  - course: PhD, Curriculum and Instruction, STEM Education
+#    institution: Lynch School of Education, Boston College
+#    year: 2013
+#  - course: EdM, Technology in Education
+#    institution: Harvard Graduate School of Education
+#    year: 2003
+#  - course: BA, Cultural Anthropology
+#    institution: Brandeis University
+#    year: 1995
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -83,6 +81,27 @@ highlight_name: true
 
 Dr. Jeremy Price is Assistant Professor of Technology, Innovation, and Pedagogy in Urban Education and serves as the Primary Investigator and Project Director for the [Digital Education Hub for Rigorous Remote Learning with Communities](../project/deh/) and for the nationwide [Community Studies of Antisemitism In Schools (CSAIS)](../project/csais/) project.
 
+{{< figure src="research-visualization.png" alt="Graphic representation of my research agenda." >}}
+
 As a public scholar-advocate, Dr. Price is invested in using his experiences and expertise to engage and build capacity and capital in educational settings for marginalized and minoritized youth and communities to build, strengthen, and sustain an inclusive and just democratic project. He works to prepare preservice and inservice educators to use technology for just, equitable, and inclusive purposes that honors learners, their identities, and their communities. Dr. Price also works to provide educators in all fields with opportunities to interrogate, examine, and learn to teach through and discuss topics such as race, religion, hate, and extremism.
 
-<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
+<div class="btn-links" style="text-align: center;">
+  <a class="btn btn-outline-primary btn-page-header" href="#interests">
+    <i class="fas fa-map-marker-alt mr-1"></i>
+    Interests
+  </a>
+  <a class="btn btn-outline-primary btn-page-header" href="#events">
+    <i class="fas fa-calendar-day mr-1"></i>
+    Upcoming Engagements
+  </a>
+  <a class="btn btn-outline-primary btn-page-header" href="#tags">
+    <i class="fas fa-tags mr-1"></i>
+    Themes
+  </a>
+  <a class="btn btn-outline-primary btn-page-header" href="#note">
+    <i class="fas fa-lightbulb pr-2"></i>
+    Inspirations
+  </a>
+</div>
+
+<!--{{< icon name="cv" pack="ai" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.-->

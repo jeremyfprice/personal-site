@@ -2,10 +2,10 @@
 name = "personalfonts"
 
 # Optional Google font URL
-google_fonts = "family=Varela+Rounded&family=Lexend&family=Red+Hat+Mono&family=Quattrocento"
+google_fonts = "family=Atkinson+Hyperlegible&family=Oxygen&family=Lexend&family=Oxygen+Mono"
 
 # Font families
-heading_font = "Varela Rounded"
-body_font = "Lexend"
-nav_font = "Varela Rounded"
-mono_font = "Red Hat Mono"
+heading_font = "Oxygen"
+body_font = "Atkinson Hyperlegible"
+nav_font = "Lexend"
+mono_font = "Oxygen Mono"

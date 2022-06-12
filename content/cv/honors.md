@@ -10,7 +10,7 @@ headless: true
 weight: 120
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Honors'
+title: Honors
 subtitle: Awards and fellowships
 
 # Date format
@@ -94,6 +94,14 @@ item:
   organization: IU Mosaic Active Teaching Program
   organization_url: https://mosaic.iu.edu/
   title: "Mosaic Teaching Fellow"
+  url:
+- certificate_url: ""
+  date_end: ""
+  date_start: "2018-08-01"
+  description: ""
+  organization: IU Mosaic Active Teaching Program
+  organization_url: https://mosaic.iu.edu/
+  title: "Mosaic Senior Teaching Fellow"
   url:
 
 design:

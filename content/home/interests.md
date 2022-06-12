@@ -7,31 +7,45 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
-active: false
-title: Interests
+weight: 5
+active: true
+title: <i class="fas fa-map-marker-alt mr-1"></i>Interests
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
-- description: 10%
-  icon: fist-raised
-  icon_pack: fas
-  name: Justice
+- icon: justice
+  icon_pack: custom
+  name: Educational Justice,<br />Equity, and Inclusion
+- name: Critical Education Technology
+  icon_pack: custom
+  icon: laptop
+- name: Community-Driven<br/>STEM Education
+  icon_pack: custom
+  icon: community
+- name: Antisemitism, Extremism,<br/>and Online Hate
+  icon_pack: custom
+  icon: synagogue
+- icon: data
+  icon_pack: custom
+  name: Data Visualization
+- name: Urban Education
+  icon_pack: custom
+  icon: urban
+- name: Online Teaching and Learning
+  icon_pack: custom
+  icon: web
+- name: Pedagogy of Place
+  icon_pack: custom
+  icon: log
+- name: Instructional Design and<br/>Curriculum Development
+  icon_pack: custom
+  icon: nib
+#- icon: "equality"
+#  icon_pack: "custom"
+#  name: Justice, Equity, and Inclusion
 
 
 # Uncomment to use emoji icons.
@@ -43,8 +57,10 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
+#- icon: "ledger"
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+
+
 ---

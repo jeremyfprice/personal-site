@@ -37,16 +37,16 @@ coordinates:
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
-#appointment_url: 'https://calendly.com'
-#contact_links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: DM Me
-#    link: 'https://twitter.com/jeremyfprice'
-#  - icon: skype
-#    icon_pack: fab
-#    name: Skype Me
-#    link: 'skype:echo123?call'
+appointment_url: 'https://outlook.office365.com/owa/calendar/SchedulewithDrPrice@indiana.onmicrosoft.com/bookings/'
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: Twitter
+    link: 'https://twitter.com/jeremyfprice'
+  - icon: github
+    icon_pack: fab
+    name: Github
+    link: 'https://github.com/jeremyfprice'
 #  - icon: keybase
 #    icon_pack: fab
 #    name: Chat on Keybase
@@ -141,10 +141,10 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
-map:
-  provider: ''
-  api_key: ''
-  zoom: 15
+#map:
+#  provider: '2'
+#  api_key: 'pk.eyJ1IjoiamVyZW15ZnByaWNlIiwiYSI6ImNsNGJvb21mZTBxNWMzZHJ0YXJ0dzNmMTcifQ.aTvvg4qv1d8syDd1AQ7b-w'
+#  zoom: 15
 marketing:
   google_analytics: ''
   google_tag_manager: ''

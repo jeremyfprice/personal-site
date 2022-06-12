@@ -27,12 +27,6 @@ experience:
   location: Indianapolis, IN
   date_start: '2016-08-01'
   date_end: ''
-  #description: |2-
-  #    Responsibilities include:
-
-  #    * Analysing
-  #    * Modelling
-  #    * Deploying
 
 - title: Assistant Professor
   company: Fairmont State University
