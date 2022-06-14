@@ -22,15 +22,15 @@ In order to facilitate this necessary shift in the field of Research on Teaching
 
 {{< figure src="bridging-map.png" caption="Map of the approach." >}}
 
-### <i class="fas fa-book-reader" style="color:#990000;"></i> Literature Review as Stance
+### {{< icon name="book-reader" pack="fas" >}} Literature Review as Stance
 
 Literature reviews as a genre help us understand the field as it is and recognize opportunities for paths forward. My literature review process includes a novel approach to understanding not just the literature that comprises the field, but also their relationships and ways in which themes such as justice, equity, and inclusion represents a large gap for the field.
 
-### <i class="fas fa-drafting-compass" style="color:#59264D;"></i> Curriculum and Course Design
+### {{< icon name="drafting-compass" pack="fas" >}} Curriculum and Course Design
 
 Preservice teachers are prepared through coursework and guided experiences. An important direction is to orient these experiences through culturally relevant pedagogy and universal design for learning. These frameworks provide a lens for preservice and inservice teachers to consider their work with justice, equity, and inclusion in mind.
 
-### <i class="fas fa-search" style="color:#006298;"></i> Inquiry and Evaluation
+### {{< icon name="search" pack="fas" >}} Inquiry and Evaluation
 
 Reflective practice and justice-oriented praxis as a teacher educator is an important aspect of this work. I therefore engage in regular self-studies and evaluations using a range of data sources, such as my curriculum, student artifacts and feedback, and student evaluations.
 

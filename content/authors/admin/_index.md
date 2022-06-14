@@ -94,7 +94,7 @@ As a public scholar-advocate, Dr. Price is invested in using his experiences and
     {{< icon name="copy" pack="fas" >}}
     Publications
   </a>
-  <a class="btn btn-outline-primary btn-page-header" href="course">
+  <a class="btn btn-outline-primary btn-page-header" href="teaching">
     {{< icon name="chalkboard-teacher" pack="fas" >}}
     Courses
   </a>

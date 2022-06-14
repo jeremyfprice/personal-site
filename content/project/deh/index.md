@@ -9,6 +9,7 @@ authors: []
 tags: ["infrastructure innovation"]
 categories: [scholarship]
 grant: geer
+project: ceisl
 date: 2020-09-01
 
 # Optional external URL for project (replaces project detail page).
@@ -27,6 +28,10 @@ links:
     icon_pack: fab
     icon: facebook
     url: 'https://www.facebook.com/dehiupui'
+  - name: Grant
+    icon_pack: fas
+    icon: money-check
+    url: 'grant/geer'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

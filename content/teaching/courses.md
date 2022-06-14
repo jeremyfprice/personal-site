@@ -2,6 +2,7 @@
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
+active: true
 
 # This file represents a page section.
 headless: true
@@ -9,12 +10,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: '<i class="fas fa-fire-alt"></i> Research Programs'
-subtitle: Lines of scholarship to transform learning environments
+title: '<i class="fas fa-chalkboard-teacher"></i> Courses'
+subtitle: Courses designed and delivered
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: course
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -25,14 +26,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: all projects
+    - name: all courses
       tag: '*'
-    - name: infrastructure innovation
-      tag: infrastructure innovation
-    - name: useable knowledge
-      tag: useable knowledge
-    - name: teaching as stance
-      tag: teaching as stance
+    - name: graduate
+      tag: graduate
+    - name: undergraduate
+      tag: undergraduate
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -43,7 +42,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

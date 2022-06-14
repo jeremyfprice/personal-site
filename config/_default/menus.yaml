@@ -10,20 +10,20 @@ main:
 #  - name: Appointments
 #    url: '#experience'
 #    weight: 10
-  - name: research programs
+  - name: '<i class="fas fa-fire-alt"></i> research programs'
     url: "programs"
     weight: 30
-  - name: publications
+  - name: '<i class="fas fa-copy"></i> publications'
     url: 'publication'
     weight: 40
 #  - name: talks
 #    url: '#events'
 #    weight: 45
-  - name: "in brevitis"
+  - name: '<i class="fas fa-file-alt"></i> in brevitis'
     url: cv
     weight: 47
-  - name: courses
-    url: 'course'
+  - name: '<i class="fas fa-chalkboard-teacher"></i> courses'
+    url: 'teaching'
     weight: 46
 #  - name: Contact
 #    url: '#contact'

@@ -23,4 +23,4 @@ The color pallete for this website is drawn from the paintings of [Paul Klee](ht
 Sources: [ColorLisa](http://www.colorlisa.com/), [ColourLovers](https://www.colourlovers.com/palette/3206365/Paul_Klee), and [Coolors](https://coolors.co/ac7a44-dbc693-c3a775-5c3617-3a2a2d).
 
 ## Fonts
-The fonts on this website were chosen to provide a readable experience. [Lexend](https://www.lexend.com/), a font designed specifically for improving readability, particularly for dyslexic readers, is used for the main text of all pages. [Valera Round](https://fonts.google.com/specimen/Varela+Round) was selected for navigation and headings as a slight offset complement to the main text.
+The fonts on this website were chosen to provide a readable experience. [Atkinson Hyperlegible](https://fonts.google.com/specimen/Atkinson+Hyperlegible?query=hyper), a font designed specifically for improving readability is used for the main text of all pages. [Oxygen](https://fonts.google.com/specimen/Oxygen?query=oxygen) was selected for navigation and headings as a readable complement to the main text.

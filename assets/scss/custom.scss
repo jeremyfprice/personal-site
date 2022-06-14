@@ -21,18 +21,26 @@
   font-family: 'Oxygen Mono', monospace;
   text-transform: uppercase; }
 
-/*.article-date:before {
+.article-date:before {
+  font-family: "Font Awesome 5 Free";
+        content: "\f073";
+        display: inline-block;
+        padding-right: 3px;
+        vertical-align: middle;
+        font-weight: 900; }
+
+.btn {
+  font-family: 'Atkinson Hyperlegible', monospace;
+  text-transform: lowercase;
+  font-weight: bold; }
+
+/*.btn [innertext*="website"]::after {
   font-family: "Font Awesome 5 Free";
         content: "\f133";
         display: inline-block;
         padding-right: 3px;
         vertical-align: middle;
         font-weight: 900; }*/
-
-.btn {
-  font-family: 'Lexend', monospace;
-  text-transform: lowercase;
-  font-weight: bold; }
 
 h1 { font-weight: bold; }
 
