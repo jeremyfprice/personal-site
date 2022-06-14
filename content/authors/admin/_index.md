@@ -87,19 +87,19 @@ As a public scholar-advocate, Dr. Price is invested in using his experiences and
 
 <div class="btn-links" style="text-align: center;">
   <a class="btn btn-outline-primary btn-page-header" href="programs">
-    <i class="fas fa-fire-alt mr-1"></i>
+    {{< icon name="fire-alt" pack="fas" >}}
     Research Programs
   </a>
   <a class="btn btn-outline-primary btn-page-header" href="publication">
-    <i class="fas fa-copy mr-1"></i>
+    {{< icon name="copy" pack="fas" >}}
     Publications
   </a>
   <a class="btn btn-outline-primary btn-page-header" href="course">
-    <i class="fas fa-chalkboard-teacher pr-1"></i>
+    {{< icon name="chalkboard-teacher" pack="fas" >}}
     Courses
   </a>
   <a class="btn btn-outline-primary btn-page-header" href="cv">
-    <i class="fas fa-file-alt pr-1"></i>
+    {{< icon name="file-alt" pack="fas" >}}
     In Brevitis
   </a>
 </div>
@@ -107,19 +107,19 @@ As a public scholar-advocate, Dr. Price is invested in using his experiences and
 
 <div class="btn-links" style="text-align: center;">
   <a class="btn btn-outline-primary btn-page-header" href="#interests">
-    <i class="fas fa-map-marker-alt mr-1"></i>
+    {{< icon name="map-marker-alt" pack="fas" >}}
     Interests
   </a>
   <a class="btn btn-outline-primary btn-page-header" href="#events">
-    <i class="fas fa-calendar-day mr-1"></i>
+    {{< icon name="calendar-day" pack="fas" >}}
     Upcoming Engagements
   </a>
   <a class="btn btn-outline-primary btn-page-header" href="#tags">
-    <i class="fas fa-tags mr-1"></i>
+    {{< icon name="tags" pack="fas" >}}
     Themes
   </a>
   <a class="btn btn-outline-primary btn-page-header" href="#note">
-    <i class="fas fa-lightbulb pr-2"></i>
+    {{< icon name="lightbulb" pack="fas" >}}
     Inspirations
   </a>
 </div>

@@ -8,7 +8,7 @@ weight: 2
 authors: []
 tags: ["infrastructure innovation"]
 categories: [scholarship]
-grant: [geer]
+grant: geer
 date: 2020-09-01
 
 # Optional external URL for project (replaces project detail page).
@@ -73,3 +73,5 @@ Six throughlines shape the framework for the Digital Education Hub, connecting a
 * **Equitable Practices and Systems:** Leading learning and knowledge sharing mediated through equitable and inclusive dispositions that promotes the success of disenfranchised learners and communities.
 
 * **Multiple Ways of Knowing and Doing:** The knowledge and wisdom of the students, families, and communities are centered in content and pedagogical decisions to promote equitable and inclusive learning experiences.
+
+<!--{{< grant >}}-->

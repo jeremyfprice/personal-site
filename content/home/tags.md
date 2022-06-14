@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: <i class="fas fa-tags mr-1"></i>Themes
+title: <i class="fas fa-tags mr-1"></i> Themes
 subtitle: ''
 
 content:

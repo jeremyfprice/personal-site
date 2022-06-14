@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: <i class="fas fa-calendar-day mr-1"></i>Engagements
+title: <i class="fas fa-calendar-day mr-1"></i> Engagements
 subtitle: 'Invited talks and media engagements'
 
 content:
