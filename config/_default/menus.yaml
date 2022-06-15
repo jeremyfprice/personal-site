@@ -10,7 +10,7 @@ main:
 #  - name: Appointments
 #    url: '#experience'
 #    weight: 10
-  - name: '<i class="fas fa-fire-alt"></i> research programs'
+  - name: '<i class="fas fa-fire-alt"></i>&nbsp;research programs'
     url: "programs"
     weight: 30
   - name: '<i class="fas fa-copy"></i> publications'
