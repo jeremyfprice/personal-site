@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 1
 
-title: '<i class="fas fa-money-check"></i> Grants'
+title: '<i class="fas fa-money-check"></i>&nbsp;Grants'
 subtitle: Awards to support scholarship, teaching, and service
 
 content:

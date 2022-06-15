@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 5
 active: true
-title: <i class="fas fa-map-marker-alt mr-1"></i> Interests
+title: <i class="fas fa-map-marker-alt mr-1"></i>&nbsp;Interests
 subtitle:
 
 # Showcase personal skills or business features.

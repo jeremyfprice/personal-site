@@ -13,16 +13,16 @@ main:
   - name: '<i class="fas fa-fire-alt"></i>&nbsp;research programs'
     url: "programs"
     weight: 30
-  - name: '<i class="fas fa-copy"></i> publications'
+  - name: '<i class="fas fa-copy"></i>&nbsp;publications'
     url: 'publication'
     weight: 40
 #  - name: talks
 #    url: '#events'
 #    weight: 45
-  - name: '<i class="fas fa-file-alt"></i> in brevitis'
+  - name: '<i class="fas fa-file-alt"></i>&nbsp;in brevitis'
     url: cv
     weight: 47
-  - name: '<i class="fas fa-chalkboard-teacher"></i> courses'
+  - name: '<i class="fas fa-chalkboard-teacher"></i>&nbsp;courses'
     url: 'teaching'
     weight: 46
 #  - name: Contact

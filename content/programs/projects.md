@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: '<i class="fas fa-fire-alt"></i> Research Programs'
+title: '<i class="fas fa-fire-alt"></i>&nbsp;Research Programs'
 subtitle: Lines of scholarship to transform learning environments
 
 content:

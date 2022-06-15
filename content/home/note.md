@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 130
 
-title: <i class="fas fa-lightbulb mr-1"></i> Inspirations
+title: <i class="fas fa-lightbulb mr-1"></i>&nbsp;Inspirations
 subtitle:
 
 design:

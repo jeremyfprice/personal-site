@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: '<i class="fas fa-chalkboard-teacher"></i> Courses'
+title: '<i class="fas fa-chalkboard-teacher"></i>&nbsp;Courses'
 subtitle: Courses designed and delivered
 
 content:
