@@ -9,7 +9,7 @@ tags: []
 categories: ["Infrastructure Innovation"]
 publishDate: 2020-01-01
 date: 2022-09-01
-active: true
+active: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
