@@ -4,7 +4,7 @@
 title: "Community Studies of Antisemitism in Schools (CSAIS) Community Typology Explorer"
 authors: [admin]
 date: 2021-10-13T15:25:05-04:00
-doi: "https://doi.org/10.7912/aab7-g327"
+doi:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-05-15T15:25:05-04:00
@@ -31,10 +31,23 @@ featured: true
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+  - name: Project
+    url: "/project/csais/"
+    icon_pack: fas
+    icon: box-open
+  - name: DOI
+    url: "https://doi.org/10.7912/aab7-g327"
+    icon_pack: ai
+    icon: doi
   - name: ScholarWorks
     url: https://hdl.handle.net/1805/26771
-#   icon_pack: fab
-#   icon: twitter
+    icon_pack: fas
+    icon: certificate
+  - name: Grant
+    url: grant/rsfg2020
+    icon_pack: fas
+    icon: money-check
+
 
 #url_pdf: https://scholarworks.iupui.edu/bitstream/handle/1805/26771/csais-osf-report.pdf?sequence=1&isAllowed=y
 url_code:
@@ -58,7 +71,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['csais']
+projects:
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

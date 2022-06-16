@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: Assistant Professor
+user_groups: Primary Investigators
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -86,6 +87,7 @@ Dr. Jeremy Price is Assistant Professor of Technology, Innovation, and Pedagogy 
 As a public scholar-advocate, Dr. Price is invested in using his experiences and expertise to engage and build capacity and capital in educational settings for marginalized and minoritized youth and communities to build, strengthen, and sustain an inclusive and just democratic project. He works to prepare preservice and inservice educators to use technology for just, equitable, and inclusive purposes that honors learners, their identities, and their communities. Dr. Price also works to provide educators in all fields with opportunities to interrogate, examine, and learn to teach through and discuss topics such as race, religion, hate, and extremism.
 
 <div class="btn-links" style="text-align: center;">
+
   <a class="btn btn-outline-primary btn-page-header" href="programs">
     {{< icon name="fire-alt" pack="fas" >}}
     Research Programs

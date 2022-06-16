@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "It Takes A Village: Student Learning Resilience Project"
+title: "STEM Identities to STEM Community Organizing"
 summary: "A comprehensive program to work with a school and community."
 weight: 3
 authors: []
 tags: []
 categories: ["Infrastructure Innovation"]
 publishDate: 2020-01-01
-date: 2022-09-01
+date: 2023-07-01
 active: true
 
 # Optional external URL for project (replaces project detail page).

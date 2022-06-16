@@ -14,5 +14,5 @@ project: deh
 project_name: Digital Education Hub for Rigorous Remote Learning with Communities
 weight: 5
 categories: [scholarship, teaching, service]
-tags: ["infrastructure innovation", "educational technology", "equity and inclusion"]
+tags: ["infrastructure innovation", "educational technology", "equity and inclusion", "primary investigator"]
 ---
