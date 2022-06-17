@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 1
 
-title: <i class="fas fa-file-alt pr-2"></i>&nbsp;Curriculum Vitæ In Brevitis
+title: <i class="fas fa-file-alt pr-2"></i>&nbsp;Curriculum Vita In Brevitis
 subtitle:
 
 design:
