@@ -26,7 +26,7 @@ main:
     url: 'teaching'
     weight: 46
   - name: '<i class="fas fa-money-check"></i>&nbsp;grants'
-    url: 'grants'
+    url: 'grant'
     weight: 45
 
 # Link to a PDF of your resume/CV from the menu.
