@@ -74,12 +74,12 @@
 </div>
 
 {{/* Featured image */}}
-<div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-4" style="max-width: {{$image.Width}}px; max-height: {{$image.Height}}px;">
+<!--<div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-4" style="max-width: {{$image.Width}}px; max-height: {{$image.Height}}px;">
   <div style="position: relative">
     <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image">
     {{ with $.Params.image.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
   </div>
-</div>
+</div>-->
 {{else}}
   {{/* Case when page has no image */}}
 
@@ -104,12 +104,17 @@
     {{ partial "page_links_div.html" $page }}
   {{end}}
 </div>
-<div class="article-container pt-3" style="border: solid 3px #CDB296; background-color: #CDB29620;">
-  <span></span>
+{{end}}
+
+
+
+<div class="article-container pt-3" style="border-top: solid 1px #CDB29660; border-bottom: solid 1px #CDB29660; margin-bottom: 1em; font-size: 0.85em;">
+  <h2 style="margin-top: 0px; text-align: center; font-size: 1.25em">At A Glance</h2>
+  <img src="logo.png" width="56px" height="56px" alt="{{ .Page.Params.source | plainify }}" style="float: right; clear: left; margin-left: 2em;">
     <ul>
-      <li><span class="amt" style="color: #85bb65;"><i class="fas fa-money-check-alt"></i></span>&nbsp;Awarded <span class="amt" style="color: #85bb65;">{{ .Page.Params.amount }}</span> from the <a href="{{ .Page.Params.source_website }}">{{ .Page.Params.source }}</a></li>
-      <li><span style='color:#741a33;'><i class="fas fa-briefcase"></i></span>&nbsp;Serving as <span style='color:#741a33;'>{{ .Page.Params.role }}</span></li>
+      <li><span class="amt" style="color: #85bb65;"><i class="fas fa-money-check-alt"></i></span>&nbsp;Awarded <span class="amt" style="color: #85bb65; font-weight: bold;">{{ .Page.Params.amount }}</span> from the <a href="{{ .Page.Params.source_website }}" style="font-weight: bold;">{{ .Page.Params.source }}</a></li>
+<!--      <li><span style="color: #4F51FE;"><i class="fas fa-calendar-week"></i></span>&nbsp;Grant period <span style="color: #4F51FE; font-weight: bold;">{{ (time .Page.Params.date_start) | time.Format (.Page.Params.date_format | default "January 2006") }}</span> to <span style="color: #4F51FE; font-weight: bold;">{{ (time .Page.Params.date_end) | time.Format (.Page.Params.date_format | default "January 2006") }}</span></li>-->
+      <li><span style='color:#741a33;'><i class="fas fa-briefcase"></i></span>&nbsp;Serving as <span style='color:#741a33; font-weight: bold;'>{{ .Page.Params.role }}</span></li>
       <li><span style='color:#CDB296;'><i class="fas fa-box-open"></i></span>&nbsp;Supporting <a href="/project/{{ .Page.Params.project }}/"> {{ .Page.Params.project_name }}</a></li>
     </ul>
 </div>
-{{end}}

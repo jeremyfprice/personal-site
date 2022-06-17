@@ -13,27 +13,14 @@
   {{ end }}
   {{ end }}
 
-  {{ if not (in (slice "event" "page") $page.Type) | and (ne $page.Params.show_date false) }}
   <span class="article-date">
-                    {{ (time $page.Params.date_start) | time.Format ($page.Params.date_format | default "January 2006") }} –
+                    {{ (time $page.Params.date_start) | time.Format ($page.Params.date_format | default "January 2006") }} to
                     {{ if $page.Params.date_end}}
                       {{ (time $page.Params.date_end) | time.Format ($page.Params.date_format | default "January 2006") }}
                     {{else}}
                       {{ i18n "present" | default "Present" }}
                     {{end}}
   </span>
-  {{ end }}
-
-  {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    {{ if $page.Params.publication_short }}
-      {{ $page.Params.publication_short | markdownify }}
-    {{ else if $page.Params.publication }}
-      {{ $page.Params.publication | markdownify }}
-    {{ end }}
-  </span>
-  {{ end }}
 
   {{ if and (eq $page.Type "post") (not (or (eq site.Params.reading_time false) (eq $page.Params.reading_time false))) }}
   <span class="middot-divider"></span>
@@ -41,16 +28,6 @@
     {{ $page.ReadingTime }} {{ i18n "minute_read" }}
   </span>
   {{ end }}
-
-  {{/* Show Disqus comment count if enabled. */}}
-  {{ $comments_provider := trim (site.Params.comments.provider | lower) " " }}
-  {{ $commentable_page_types := site.Params.comments.commentable | default dict }}
-  {{ $commentable_page_type := index $commentable_page_types $page.Type | default false }}
-  {{ $commentable_page := (ne $page.Params.commentable false) | and $commentable_page_type }}
-  {{ if (eq $comments_provider "disqus") | and (site.Params.comments.disqus.show_count | default true) | and $commentable_page }}
-    <span class="middot-divider"></span>
-    <a href="{{ $page.RelPermalink }}#disqus_thread"><!-- Count will be inserted here --></a>
-  {{ end}}
 
   {{ $taxonomy := "categories" }}
   {{ if $page.Param $taxonomy }}

@@ -6,6 +6,6 @@ google_fonts = "family=Human+Sans&family=Atkinson+Hyperlegible&family=Oxygen&fam
 
 # Font families
 heading_font = "Oxygen"
-body_font = "Atkinson Hyperlegible"
+body_font = "Lexend"
 nav_font = "Atkinson Hyperlegible"
 mono_font = "Oxygen Mono"
