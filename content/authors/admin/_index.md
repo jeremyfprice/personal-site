@@ -100,6 +100,10 @@ As a public scholar-advocate, Dr. Price is invested in using his experiences and
     {{< icon name="chalkboard-teacher" pack="fas" >}}
     Courses
   </a>
+  <a class="btn btn-outline-primary btn-page-header" href="grant">
+    {{< icon name="money-check" pack="fas" >}}
+    Grants
+  </a>
   <a class="btn btn-outline-primary btn-page-header" href="cv">
     {{< icon name="file-alt" pack="fas" >}}
     In Brevitis

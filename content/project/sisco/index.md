@@ -9,7 +9,7 @@ tags: []
 categories: ["Infrastructure Innovation"]
 publishDate: 2020-01-01
 date: 2023-07-01
-draft: true
+draft: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -47,4 +47,4 @@ url_video: ""
 slides: ""
 ---
 
-This project is under development.
+This project is undergoing a planning process.
