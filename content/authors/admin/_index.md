@@ -101,7 +101,7 @@ As a public scholar-advocate, Dr. Price is invested in using his experiences and
     Courses
   </a>
   <a class="btn btn-outline-primary btn-page-header" href="grant">
-    {{< icon name="money-check" pack="fas" >}}
+    {{< icon name="money-check" pack="fas" >}}&nbsp;
     Grants
   </a>
   <a class="btn btn-outline-primary btn-page-header" href="cv">
