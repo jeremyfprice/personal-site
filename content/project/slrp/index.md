@@ -6,7 +6,7 @@ summary: "A comprehensive program to work with a school and community."
 weight: 3
 authors: []
 tags: []
-categories: ["Infrastructure Innovation"]
+categories: ["Interweaving Community and STEM Education"]
 publishDate: 2020-01-01
 date: 2022-09-01
 draft: slrp
@@ -48,3 +48,5 @@ slides: ""
 ---
 
 This project is undergoing a planning process.
+
+{{< figure src="csi-slrp.png" caption="Challenges, Strategies, and Infrastructures of the Student Learning Resilience Plan project." >}}

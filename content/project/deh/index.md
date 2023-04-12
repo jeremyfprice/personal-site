@@ -7,7 +7,7 @@ summary: "A community-engaged response to providing equitable and inclusive lear
 weight: 2
 authors: []
 tags: ["infrastructure innovation"]
-categories: [scholarship]
+categories: [Interweaving Community and STEM Education]
 grant: geer
 project: ceisl
 date: 2020-09-01
@@ -24,10 +24,10 @@ links:
     icon_pack: fas
     icon: link
     url: 'https://digitaleducationhub.org/'
-  - name: Facebook
-    icon_pack: fab
-    icon: facebook
-    url: 'https://www.facebook.com/dehiupui'
+#  - name: Facebook
+#    icon_pack: fab
+#    icon: facebook
+#    url: 'https://www.facebook.com/dehiupui'
   - name: Grant
     icon_pack: fas
     icon: money-check

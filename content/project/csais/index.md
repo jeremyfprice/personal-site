@@ -5,7 +5,7 @@ title: "Community Studies of Antisemitism in Schools"
 summary: "Developing a community typology to address antisemitic incidents in schools."
 authors: []
 tags: [useable knowledge, antisemitism, white nationalism, ai]
-categories: [scholarship]
+categories: [Revealing and Resisting the Spectrum and Specter]
 date: 2022-05-31
 weight: 4
 
