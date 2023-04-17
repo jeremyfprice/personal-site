@@ -7,7 +7,7 @@ summary: "Building accessibility and inclusion into K-12 online courses provided
 weight: 3
 authors: []
 tags: [useable knowledge, equity and inclusion, online teaching]
-categories: [Learning Environments that Honor and Sustain Culture, Identity, and Community with Technology]
+categories: ["Learning Environments that Relate", "Useable Knowledge"]
 date: 2022-03-01
 draft: false
 

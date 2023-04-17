@@ -1,5 +1,5 @@
 ---
-title: "Family as Faculty as an infrastructure"
+title: "Title IV Well-Rounded Course Access Grant"
 summary: "Supporting equity and inclusion in online courses for K-12 students across Indiana"
 date: 2022-02-01
 draft: false
@@ -10,9 +10,9 @@ publishDate: 2020-01-01
 date_start: 2022-02-01
 date_end: 2023-06-30
 amount: "$600,000"
-role: Co-PI
-project: slrp
-project_name: "Student Learning Resilience Plan"
+role: Key Personnel
+project: wrca
+project_name: "Well-Rounded Course Access Project: Accessibility and Inclusion"
 weight: 5
 categories: [Learning Environments that Honor and Sustain]
 tags: ["infrastructure innovation", "educational technology", "equity and inclusion", "key personnel"]

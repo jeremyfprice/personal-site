@@ -6,10 +6,19 @@ summary: "This course investigates innovations, emerging technologies, and techn
 reform."
 summaryImage: "w550.png"
 tags: ["graduate", "educational technology", "equity and inclusion", "white nationalism", ai]
-categories: teaching
+categories: ["Learning Environments that Sustain", "Learning Environments that Relate", "Learning Environments that Illuminate"]
 resources:
 - src: w550.png
 ---
+
+  <div class="btn-links">
+    <a class="btn btn-outline-primary btn-page-header" href="https://iu.instructure.com/courses/2160464">
+      <i class="fas fa-chalkboard"></i>&nbsp;model course
+    </a>
+    <a class="btn btn-outline-primary btn-page-header" href="educ-w550-syllabus.pdf">
+      <i class="fas fa-file-contract"></i>&nbsp;syllabus
+    </a>
+  </div>
 
 This course investigates innovations, emerging technologies, and technology's role in education
 reform. Students will collaborate to search out, evaluate, and synthesize research studies and
@@ -17,15 +26,9 @@ verifiable information about promising educational technologies.
 
 The course as a whole is guided by the overarching essential question:
 
-*What are the critical issues that intersect with technology and education, and how
-do we approach these issues in our classrooms, schools, and communities?*
+> What are the critical issues that intersect with technology and education, and how do we approach these issues in our classrooms, schools, and communities?
 
-Exploring this question prepares students to engage with the current state of educational technology in
-society and in the classroom more deeply. Students are introduced to four critical issues and
-explore each issue through a spiral process of building new knowledge and deepening understandings
-moving from understanding to analyzing to transforming. Each module is guided by an
-essential question and a learning goal with a set of readings and a culminating performance that
-challenges you to engage in transforming the issue through educational technology.
+Exploring this question prepares students to engage with the current state of educational technology in society and in the classroom more deeply. Students are introduced to four critical issues and explore each issue through a spiral process of building new knowledge and deepening understandings moving from understanding to analyzing to transforming. Each module is guided by an essential question and a learning goal with a set of readings and a culminating performance that challenges you to engage in transforming the issue through educational technology.
 
 UNIT | Essential Question | Culminating Performance
 -----|--------------------|-------------------------

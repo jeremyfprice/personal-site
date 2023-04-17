@@ -7,7 +7,7 @@ summary: "A community-engaged response to providing equitable and inclusive lear
 weight: 2
 authors: []
 tags: ["infrastructure innovation"]
-categories: [Interweaving Community and STEM Education]
+categories: ["Learning Environments that Sustain"]
 grant: geer
 project: ceisl
 date: 2020-09-01

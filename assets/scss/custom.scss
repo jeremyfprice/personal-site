@@ -1,11 +1,11 @@
 .article-categories {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Noto Sans Mono', monospace;
   text-transform: uppercase;
   white-space: nowrap;
   /* Keep category icon on same line as category links, otherwise context lost. */ }
 
 .article-tags {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Noto Sans Mono', monospace;
   text-transform: lowercase; }
 
 .article-tags:before {
@@ -18,7 +18,7 @@
         font-weight: 900; }
 
 .article-date {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Noto Sans Mono', monospace;
   text-transform: uppercase; }
 
 .article-date:before {
@@ -30,7 +30,7 @@
         font-weight: 900; }
 
 .btn {
-  font-family: 'Atkinson Hyperlegible', monospace;
+  font-family: 'Noto Sans Mono', monospace;
   text-transform: lowercase;
   font-weight: bold; }
 

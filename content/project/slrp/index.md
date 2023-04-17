@@ -6,7 +6,7 @@ summary: "A comprehensive program to work with a school and community."
 weight: 3
 authors: []
 tags: []
-categories: ["Interweaving Community and STEM Education"]
+categories: ["Learning Environments that Sustain"]
 publishDate: 2020-01-01
 date: 2022-09-01
 draft: slrp

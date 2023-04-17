@@ -6,10 +6,10 @@ summary: "A comprehensive program to work with a school and community."
 weight: 3
 authors: []
 tags: []
-categories: ["Infrastructure Innovation"]
+categories: ["Learning Environments that Sustain"]
 publishDate: 2020-01-01
 date: 2023-07-01
-draft: false
+draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

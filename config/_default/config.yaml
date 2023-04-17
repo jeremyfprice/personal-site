@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jeremy F Price # Website name
-baseurl: '' # Website URL
+baseurl: 'https://www.jeremyfprice.info' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################

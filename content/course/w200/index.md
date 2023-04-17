@@ -1,6 +1,6 @@
 ---
 title: "Computer Use in Education"
-date: 2022-03-19
+date: 2023-04-17
 draft: false
 hideLastModified: false
 summary: "The course that all undergraduate teacher education students take prior to being admitted into the program."
@@ -10,11 +10,20 @@ resources:
 - src: w200.png
 ---
 
+  <div class="btn-links">
+    <a class="btn btn-outline-primary btn-page-header" href="https://iu.instructure.com/courses/2160455">
+      <i class="fas fa-chalkboard"></i>&nbsp;model course
+    </a>
+    <a class="btn btn-outline-primary btn-page-header" href="https://jeremyfprice.info/project/bridging/">
+      <i class="fas fa-box-open"></i>&nbsp;project
+    </a>
+  </div>
+
 This course explores the different ways that technology can be used to support learning, understanding, and inclusion in the classroom or in other types of learning environments. The activities in the course pays special attention to the role that future educators play as facilitator and intentional designer of materials and of the environment to engage in intentional, inclusive, and just teaching with technology.
 
 The course explores the following essential question:
 
-`What does it look like to engage in intentional, inclusive, and just teaching with technology?`
+> What does it look like to engage in intentional, inclusive, and just teaching with technology?
 
 <img style="float: right; clear: left; padding-left: 20px;" src="througlinesvalues.png" alt="Throughlines and Values logo" width="96" height="96" />
 

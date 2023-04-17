@@ -4,7 +4,7 @@ summary: "Bringing ideas of racial justice and inclusivity into the field of Tea
 date: 2022-06-06
 draft: false
 weight: 5
-categories: ["Learning Environments that Honor and Sustain"]
+categories: ["Learning Environments that Relate"]
 tags: ["teaching as stance", "educational technology", "instructional design", "equity and inclusion"]
 ---
 
