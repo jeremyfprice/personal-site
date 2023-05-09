@@ -2,10 +2,10 @@
 name = "personalfonts"
 
 # Optional Google font URL
-google_fonts = "family=Oxygen&family=Oxygen+Mono&family=Spectral&family=Noto+Sans+Mono&family=Noto+Sans"
+google_fonts = "family=Atkinson+Hyperlegible&family=Noto+Sans+Mono&family=Inter"
 
 # Font families
-heading_font = "Noto Sans"
-body_font = "Spectral"
+heading_font = "Inter"
+body_font = "Atkinson Hyperlegible"
 nav_font = "Noto Sans Mono"
 mono_font = "Noto Sans Mono"

@@ -55,7 +55,7 @@ social:
   link: https://twitter.com/jeremyfprice
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=HYBZ2CsAAAAJ&view_op=list_works&gmla=ABEO0YpJA0ZTfPFtSeg0T6CZkRSFVIfPDj29sISK9ayuuNEFpRhOh_9CPRi0T7SwyVrO7KAtYZun
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-6506-3526
@@ -80,13 +80,13 @@ email: ""
 highlight_name: true
 ---
 
-Dr. Jeremy Price is Assistant Professor of Technology, Innovation, and Pedagogy in Urban Education and serves as the Primary Investigator and Project Director for the [Digital Education Hub for Rigorous Remote Learning with Communities](../project/deh/) and for the nationwide [Community Studies of Antisemitism In Schools (CSAIS)](../project/csais/) project.
+Dr. Jeremy Price is Assistant Professor of Technology, Innovation, and Pedagogy in Urban Education and serves as the Primary Investigator and Project Director for the Collaborative for Equitable and Inclusive STEM Learning (CEISL) and for the nationwide [Community Studies of Antisemitism In Schools (CSAIS)](../project/csais/) project.
 
 {{< figure src="research-visualization.png" alt="Graphic representation of my research agenda." >}}
 
 As a public scholar-advocate, Dr. Price is invested in using his experiences and expertise to engage and build capacity and capital in educational settings for marginalized and minoritized youth and communities to build, strengthen, and sustain an inclusive and just democratic project. He works to prepare preservice and inservice educators to use technology for just, equitable, and inclusive purposes that honors learners, their identities, and their communities. Dr. Price also works to provide educators in all fields with opportunities to interrogate, examine, and learn to teach through and discuss topics such as race, religion, hate, and extremism.
 
-<div class="btn-links" style="text-align: center;">
+<!--<div class="btn-links" style="text-align: center;">
 
   <a class="btn btn-outline-primary btn-page-header" href="programs">
     {{< icon name="fire-alt" pack="fas" >}}
@@ -128,6 +128,6 @@ As a public scholar-advocate, Dr. Price is invested in using his experiences and
     {{< icon name="lightbulb" pack="fas" >}}
     Inspirations
   </a>
-</div>
+</div>-->
 
 <!--{{< icon name="cv" pack="ai" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.-->
