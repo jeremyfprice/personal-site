@@ -1,5 +1,5 @@
 ---
-title: "Family as Faculty as an infrastructure"
+title: "Well-Rounded Course Access: Accessibility and Inclusion in Online Learning"
 summary: "Supporting equity and inclusion in online courses for K-12 students across Indiana"
 date: 2022-02-01
 draft: false

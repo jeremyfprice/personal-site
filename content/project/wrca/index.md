@@ -4,7 +4,7 @@
 #title: "CEISL//Well-Rounded Course Access Project"
 title: "Well-Rounded Course Access Project"
 summary: "Building accessibility and inclusion into K-12 online courses provided to the students of Indiana."
-weight: 3
+weight: 4
 authors: []
 tags: [useable knowledge, equity and inclusion, online teaching]
 categories: ["Learning Environments that Relate", "Useable Knowledge"]

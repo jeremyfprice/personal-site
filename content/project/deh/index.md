@@ -4,7 +4,7 @@
 #title: "CEISL//Digital Education Hub"
 title: "Digital Education Hub"
 summary: "A community-engaged response to providing equitable and inclusive learning environments with technology."
-weight: 2
+weight: 3
 authors: []
 tags: ["infrastructure innovation"]
 categories: ["Learning Environments that Sustain"]

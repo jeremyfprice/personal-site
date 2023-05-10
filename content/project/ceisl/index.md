@@ -11,7 +11,7 @@ categories: ["Learning Environments that Sustain"]
 date: 2022-05-31
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://ceisl.iupui.edu/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
