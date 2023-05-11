@@ -80,7 +80,7 @@ email: ""
 highlight_name: true
 ---
 
-Dr. Jeremy Price is Assistant Professor of Technology, Innovation, and Pedagogy in Urban Education and serves as the Primary Investigator and Project Director for the [Collaborative for Equitable and Inclusive STEM Learning (CEISL)](https://ceisl.iupui.edu/) and for the nationwide [Community Studies of Antisemitism In Schools (CSAIS)](../project/csais/) project.
+Dr. Jeremy Price is Assistant Professor of Technology, Innovation, and Pedagogy in Urban Education and serves as the Primary Investigator and Project Director for the [Collaborative for Equitable and Inclusive STEM Learning (CEISL)](https://ceisl.iupui.edu/) and for the [Community Studies of Antisemitism In Schools (CSAIS)](../project/csais/) project.
 
 {{< figure src="research-visualization.png" alt="Graphic representation of my research agenda." >}}
 

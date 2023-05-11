@@ -7,7 +7,7 @@ source: National Association for Family, School, and Community Engagement
 source_website: "https://nafsce.org/page/MiniGrant"
 source_logo: nafsce
 publishDate: 2020-01-01
-date_start: 2022-02-01
+date_start: 2023-01-01
 date_end: 2023-06-30
 amount: "$17,500"
 role: Co-PI
