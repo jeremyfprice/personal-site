@@ -23,7 +23,7 @@ links:
   - name: Website
     icon_pack: fas
     icon: link
-    url: 'https://digitaleducationhub.org/'
+    url: 'https://digitaleducationhub.community/'
 #  - name: Facebook
 #    icon_pack: fab
 #    icon: facebook
